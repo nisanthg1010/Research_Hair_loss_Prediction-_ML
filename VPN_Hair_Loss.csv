@@ -1,0 +1,940 @@
+Timestamp,NAME,Age Group,Gender,Family History of Hair Loss,Type of Hair Loss in Family,Ethnicity,Do you Smoke,Do you Consume Alcohol Frequently,"How Often do you use Heat Styling Tools(Straightener,dryer,curler)?",Do you Frequently Dye or Bleach your Hair?,Do you Experience High levels of Stress Regularly?,Do you have Dandruff or an Itchy Scalp?,Do you notice Excessive Hair Shedding while Washing or Combing?,What is your Hair Type?,How often do you Wash your Hair? ,"Do you use Hair Care Products containing Harsh Chemicals (sulfates , parabens )","Do you have a Balanced Diet Rich in Protein,Vitamins and Iron?","Do you take Hair Growth Supplements(Eg., Biotin,Omega-3)?",Do you Drink enough Water daily(atLeast 2-3 liters)?,Have you Experienced Rapid Weight Loss Recently?,Do you follow Vegetarian or Vegan diet?,"Have you been Diagnosed with a Hormonal Imbalance (eg.thyroid issues , pcos )",Have you had Chemotherapy or Radiation Therapy?,"Do you have an Autoimmune Disease (eg.alopecia areata , lupus )?","Are you Taking any Medications known to Cause Hair Loss (eg.blood pressure meds , antidepressants )?",Target
+2015/01/31 7:57:11 pm GMT+5:30,Vishnu Priya,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,Yes,No,No,No,No,No,0
+2025/01/11 7:57:10 pm GMT+5:10,Keerthika V ,18-25,Female,No,,,No,No,Rarely,No,No,Yes,Yes,Curly,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/01/11 8:26:16 pm GMT+5:10,Santhiya Nachimuthu ,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Straight,Once a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 8:28:47 pm GMT+5:30,Sivavarsni BK ,18-25,Female,No,,,No,No,Rarely,No,Yes,No,No,Curly,Twice a week,Yes,No,No,No,Yes,Yes,No,No,No,No,0
+2025/01/31 8:41:13 pm GMT+5:30,Sindhu M ,26-35,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Wavy,Daily,No,Yes,No,Yes,Yes,Yes,No,No,No,No,1
+2025/01/31 8:48:47 pm GMT+5:30,Santhiya S ,18-25,Female,No,,,No,No,Never,No,No,Yes,No,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/01/31 8:49:31 pm GMT+5:30,MOUNIKA P,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Once a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/01/31 8:58:36 pm GMT+5:30,S.  Latha.,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/01/31 9:11:27 pm GMT+5:30,VITHYASREE K,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,Yes,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/01/31 9:11:35 pm GMT+5:30,Vishal,18-25,Male,No,,,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/01/31 9:12:22 pm GMT+5:30,Kavithavelusamy,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Never,Yes,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:12:34 pm GMT+5:30,KUMAR,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/01/31 9:13:27 pm GMT+5:30,KHAN,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0
+2025/01/31 9:14:23 pm GMT+5:30,DHIVAGAR,18-25,Female,Yes,Male pattern baldness,African,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/01/31 9:15:18 pm GMT+5:30,ANNAND,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/01/31 9:16:08 pm GMT+5:30,MANIAN,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,0
+2025/01/31 9:16:13 pm GMT+5:30,RAMA LINGAM K,18-25,Male,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Daily,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/01/31 9:16:56 pm GMT+5:30,Thana,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Straight,Daily,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,0
+2025/01/31 9:18:43 pm GMT+5:30,THULASIRAMAN M B,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,No,Yes,No,Straight,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/01/31 9:29:26 pm GMT+5:30,Sudharsan m,18-25,Male,No,,,No,No,Rarely,No,No,Yes,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:31:02 pm GMT+5:30,Dharmeshwaran,18-25,Male,No,,,No,No,Never,No,No,Yes,Yes,Straight,Daily,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:32:56 pm GMT+5:30,Akila H,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,No,Yes,Yes,No,No,No,No,1
+2025/01/31 9:33:23 pm GMT+5:30,Vashanthkumar ,18-25,Male,No,,,No,No,Rarely,No,Yes,Yes,Yes,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:33:24 pm GMT+5:30,Sowmiya Sree Murugesan ,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,No,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/01/31 9:34:17 pm GMT+5:30,Rubitha d,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Every other day,Yes,No,No,No,No,No,Yes,No,No,No,1
+2025/01/31 9:36:51 pm GMT+5:30,Sujitha ,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Wavy,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/01/31 9:37:05 pm GMT+5:30,Surendar ,18-25,Male,No,,,No,No,Never,No,No,No,Yes,Wavy,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:40:35 pm GMT+5:30,Boobesh R ,18-25,Male,No,,,No,No,Never,No,Yes,Yes,No,Curly,Once a week,No,Yes,Yes,Yes,No,No,No,No,No,No,0
+2025/01/31 9:40:40 pm GMT+5:30,Sureshkumar,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Wavy,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/01/31 9:41:04 pm GMT+5:30,Pravin S ,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,No,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:51:34 pm GMT+5:30,Vibinikha ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,Yes,Straight,Twice a week,Yes,Yes,No,No,No,No,Yes,No,No,Yes,1
+2025/01/31 9:55:33 pm GMT+5:30,JANARTHAN G ,18-25,Male,No,,,No,No,Never,No,Yes,Yes,No,Coily,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/01/31 9:56:01 pm GMT+5:30,Dharunkumar T,18-25,Male,Yes,Male pattern baldness,Other,Yes,No,Never,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,1
+2025/01/31 9:57:19 pm GMT+5:30,NIVETHAA,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 9:57:21 pm GMT+5:30,PREM M ,18-25,Male,No,,,No,No,Never,No,No,No,No,Straight,Daily,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/01/31 9:59:37 pm GMT+5:30,Bharaneedharan S,18-25,Male,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,Yes,Yes,No,No,Yes,No,No,No,No,No,0
+2025/01/31 10:01:03 pm GMT+5:30,Santhosh ,18-25,Male,No,,,No,No,Never,No,Yes,Yes,No,Straight,Daily,No,No,No,No,No,Yes,No,No,No,No,0
+2025/01/31 10:01:33 pm GMT+5:30,Arulprakash ,46-60,Male,Yes,Male pattern baldness,Asian,No,No,Never,Yes,No,No,No,Wavy,Daily,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/01/31 10:03:45 pm GMT+5:30,Renuka,36-45,Female,No,,,No,No,Never,No,Yes,No,No,Straight,Twice a week,No,No,No,No,Yes,No,Yes,No,No,No,1
+2025/01/31 10:04:49 pm GMT+5:30,Malarvibi,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Curly,Every other day,No,No,No,No,Yes,No,No,No,No,Yes,1
+2025/01/31 10:05:59 pm GMT+5:30,S.Jasmitha,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Every other day,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 10:06:08 pm GMT+5:30,Nandhini S S,18-25,Female,Yes,Female pattern baldness,Other,No,No,Never,No,Yes,Yes,Yes,Straight,Twice a week,Yes,Yes,No,Yes,No,Yes,No,No,No,No,1
+2025/01/31 10:06:25 pm GMT+5:30,Vinothini ,18-25,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Wavy,Twice a week,Yes,No,No,Yes,No,No,Yes,No,No,No,1
+2025/01/31 10:07:33 pm GMT+5:30,Navya sri,18-25,Female,No,,,No,No,Never,No,No,No,Yes,Straight,Twice a week,No,Yes,No,Yes,Yes,No,No,No,No,No,1
+2025/01/31 10:10:40 pm GMT+5:30,Bhoomika. S,18-25,Female,Yes,Female pattern baldness,Other,No,No,Never,No,Yes,Yes,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 10:10:47 pm GMT+5:30,Dharika P,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Straight,Twice a week,No,Yes,Yes,Yes,No,No,No,No,No,No,1
+2025/01/31 10:15:25 pm GMT+5:30,Bhagath,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Wavy,Daily,No,No,No,No,No,No,Yes,No,No,No,1
+2025/01/31 10:15:44 pm GMT+5:30,Jaya sree,18-25,Female,Yes,Female pattern baldness,Other,No,No,Never,No,No,No,No,Straight,Twice a week,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+2025/01/31 10:18:31 pm GMT+5:30,PAVI,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,Yes,No,Wavy,Twice a week,Yes,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 10:21:33 pm GMT+5:30,Harsha Vardhan ,18-25,Male,Yes,Female pattern baldness,Other,No,No,Never,No,Yes,No,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 10:21:35 pm GMT+5:30,Suvitha V,18-25,Female,Yes,Female pattern baldness,Other,No,No,Never,No,Yes,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 10:21:38 pm GMT+5:30,Rithanya V ,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Wavy,Twice a week,No,Yes,No,Yes,No,Yes,No,No,No,No,1
+2025/01/31 10:23:27 pm GMT+5:30,Sivakumar P ,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,Yes,Yes,Curly,Every other day,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 10:27:29 pm GMT+5:30,Sastika,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Straight,Twice a week,No,Yes,No,Yes,Yes,No,No,No,No,No,1
+2025/01/31 10:28:27 pm GMT+5:30,Abdullah ,18-25,Male,No,,,No,No,Rarely,No,Yes,Yes,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/01/31 10:41:28 pm GMT+5:30,Dharshini S,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Twice a week,No,No,No,Yes,Yes,No,No,No,No,No,1
+2025/01/31 10:42:33 pm GMT+5:30,ANIKET M,18-25,Male,No,,,No,No,Never,No,No,Yes,No,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/01/31 10:48:20 pm GMT+5:30,SABAREESAN R ,18-25,Male,No,,,No,No,Never,No,No,Yes,No,Wavy,Daily,No,No,No,No,Yes,No,No,No,No,No,1
+2025/01/31 10:58:43 pm GMT+5:30,Dinakar ,18-25,Male,No,,,No,No,Never,No,No,Yes,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/01/31 11:09:05 pm GMT+5:30,Kalpana.T,36-45,Female,No,,,No,No,Never,No,Yes,Yes,No,Coily,Daily,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+2025/01/31 11:32:57 pm GMT+5:30,Pavithra S B,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Curly,Twice a week,No,No,No,Yes,Yes,No,No,No,No,No,1
+2025/01/31 11:35:13 pm GMT+5:30,Shobana S,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Curly,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/01/31 11:45:14 pm GMT+5:30,S B Pavithra,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Curly,Twice a week,Yes,No,No,Yes,No,No,No,No,No,No,1
+2025/02/01 12:38:03 am GMT+5:30,Swathi ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Curly,Every other day,No,Yes,Yes,Yes,Yes,No,No,No,No,No,1
+2025/02/01 5:17:46 am GMT+5:30,Arkeshwar,18-25,Male,No,,,No,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/01 5:18:52 am GMT+5:30,Suddev,18-25,Male,No,,,No,No,Never,No,No,No,No,Wavy,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/01 6:21:02 am GMT+5:30,NANTHIYA D,36-45,Female,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/01 6:44:24 am GMT+5:30,Jaishree S,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Curly,Twice a week,No,Yes,Yes,Yes,No,No,No,No,No,No,1
+2025/02/01 6:54:13 am GMT+5:30,Monesha  M S ,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,Yes,Wavy,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/01 7:22:55 am GMT+5:30,BHARANI SRI D ,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Straight,Once a week,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/01 7:25:18 am GMT+5:30,Mohanesh SM,18-25,Male,No,,,No,No,Never,No,Yes,Yes,No,Straight,Daily,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/01 7:31:22 am GMT+5:30,Dhanashree,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Wavy,Twice a week,No,Yes,No,Yes,Yes,No,No,No,No,No,1
+2025/02/01 7:41:49 am GMT+5:30,Swathi.C,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Curly,Twice a week,No,Yes,No,No,No,No,No,No,No,No,1
+2025/02/01 7:49:43 am GMT+5:30,Vishalini ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,Yes,No,Yes,No,No,No,1
+2025/02/01 7:59:27 am GMT+5:30,Nisanth G,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Straight,Daily,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,1
+2025/02/01 8:11:22 am GMT+5:30,Kesavardhini,26-35,Female,No,,,No,No,Few times a week,No,No,No,No,Wavy,Once a week,No,No,Yes,No,Yes,Yes,Yes,No,No,No,1
+2025/02/01 8:31:08 am GMT+5:30,J.Preethi Fetricia ,26-35,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Coily,Twice a week,No,Yes,Yes,No,No,No,No,No,No,No,1
+2025/02/01 8:34:44 am GMT+5:30,R.swathi,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Every other day,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/01 8:47:53 am GMT+5:30,Sibidharan ,18-25,Male,No,,,No,No,Never,No,No,No,No,Straight,Daily,No,Yes,No,Yes,No,Yes,No,No,No,No,0
+2025/02/01 8:51:13 am GMT+5:30,S Logithiya ,18-25,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Straight,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/01 8:53:46 am GMT+5:30,Janasshvar,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Wavy,Daily,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/01 8:54:29 am GMT+5:30,Nandhu,18-25,Male,No,,,No,No,Rarely,No,Yes,Yes,Yes,Coily,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/01 8:54:31 am GMT+5:30,Sengottayan S,18-25,Male,No,,,No,No,Never,No,No,No,Yes,Straight,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/01 8:55:19 am GMT+5:30,Kavibharathi S,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Curly,Twice a week,No,Yes,No,No,No,No,No,No,No,No,1
+2025/02/01 8:57:07 am GMT+5:30,Johny bai,18-25,Male,Yes,Male pattern baldness,Other,No,Yes,Daily,No,Yes,No,Yes,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/01 9:12:47 am GMT+5:30,Shanmuga Priya.G,26-35,Female,No,,,No,No,Rarely,No,Yes,No,No,Wavy,Twice a week,No,Yes,No,Yes,No,Yes,Yes,No,No,No,1
+2025/02/01 9:39:32 am GMT+5:30,Tanujasri SV,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Straight,Once a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/01 9:54:29 am GMT+5:30,Devadharshini ,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Wavy,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/01 9:54:38 am GMT+5:30,Deepaa,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/01 10:52:32 am GMT+5:30,Monika Sri M,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/01 10:56:20 am GMT+5:30,Varshini T ,18-25,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,Yes,No,Yes,No,No,Yes,No,No,No,1
+2025/02/01 11:22:42 am GMT+5:30,Aishwarya R,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Straight,Twice a week,No,Yes,No,Yes,No,Yes,No,No,No,No,0
+2025/02/01 12:28:43 pm GMT+5:30,Romiyal,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Wavy,Once a week,No,Yes,No,No,No,No,No,No,No,No,0
+2025/02/01 1:21:53 pm GMT+5:30,JAYALAKSHMI S,18-25,Female,No,,,No,No,Never,No,Yes,Yes,No,Wavy,Every other day,No,Yes,No,Yes,Yes,No,No,No,No,No,0
+2025/02/01 1:29:01 pm GMT+5:30,Harishmitha K T,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,Yes,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/01 1:47:22 pm GMT+5:30,Hari,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,No,No,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/01 2:51:25 pm GMT+5:30,Bhavani S ,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Curly,Twice a week,Yes,No,No,No,No,No,No,No,No,No,0
+2025/02/01 3:03:16 pm GMT+5:30,Mohamudha Shifa Thahsina J ,18-25,Female,No,,,No,No,Few times a week,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/01 3:15:36 pm GMT+5:30,Kayalvezhi.T,18-25,Female,No,,,No,No,Never,No,No,No,Yes,Straight,Twice a week,Yes,Yes,No,No,No,No,No,No,No,No,1
+2025/02/01 3:23:31 pm GMT+5:30,POORANI BHUVANESHWARI M D,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,Yes,Yes,Straight,Twice a week,No,Yes,No,Yes,No,Yes,No,No,No,No,0
+2025/02/01 5:52:58 pm GMT+5:30,POOJA SRI S,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Once a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/01 6:31:56 pm GMT+5:30,ASVITHA ,18-25,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Curly,Twice a week,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/01 7:36:34 pm GMT+5:30,Aaron,18-25,Male,Yes,Male pattern baldness,African,Yes,Yes,Few times a week,No,Yes,Yes,Yes,Curly,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,0
+2025/02/01 7:37:33 pm GMT+5:30,Abel,26-35,Male,Yes,Male pattern baldness,Caucasian,No,Yes,Rarely,No,Yes,No,No,Coily,Once a week,No,No,No,No,No,No,Yes,No,No,No,0
+2025/02/01 7:38:45 pm GMT+5:30,Aisha,36-45,Female,Yes,Female pattern baldness,African,No,No,Rarely,No,Yes,Yes,No,Wavy,Daily,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,0
+2025/02/01 7:39:44 pm GMT+5:30,Ainsley,26-35,Female,No,,,No,No,Few times a week,Yes,Yes,No,No,Straight,Daily,Yes,No,Yes,No,No,Yes,No,No,No,No,1
+2025/02/01 7:46:10 pm GMT+5:30,Alice,36-45,Female,Yes,Female pattern baldness,Caucasian,No,Yes,Few times a week,No,No,No,No,Wavy,Every other day,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,0
+2025/02/01 7:52:19 pm GMT+5:30,Barry,46-60,Male,Yes,Female pattern baldness,African,No,Yes,Few times a week,No,Yes,No,Yes,Curly,Twice a week,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,1
+2025/02/01 8:00:22 pm GMT+5:30,Cibi,26-35,Male,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,No,Yes,Yes,Wavy,Every other day,No,No,Yes,No,No,No,Yes,No,No,No,1
+2025/02/01 8:05:15 pm GMT+5:30,Hema varshini ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/01 8:07:18 pm GMT+5:30,Aruljothi,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/01 8:10:02 pm GMT+5:30,Kavin,26-35,Male,No,,,No,Yes,Rarely,No,Yes,No,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/01 8:39:42 pm GMT+5:30,Anie H Syndhiya ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/01 8:40:17 pm GMT+5:30,DIVYA B ,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Every other day,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/01 8:51:34 pm GMT+5:30,Janani G,26-35,Female,No,,,No,No,Never,No,No,Yes,Yes,Straight,Twice a week,Yes,Yes,No,Yes,No,No,No,No,No,No,0
+2025/02/01 8:53:40 pm GMT+5:30,Gunasundari G,46-60,Female,No,,,No,Yes,Never,No,No,No,Yes,Straight,Twice a week,Yes,Yes,No,Yes,No,No,No,No,No,No,0
+2025/02/01 9:22:28 pm GMT+5:30,Lingesh kumar B ,18-25,Male,Yes,Male pattern baldness,Other,No,No,Rarely,No,Yes,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/01 9:43:08 pm GMT+5:30,INDUJHA N ,18-25,Female,No,,,No,No,Never,No,No,Yes,Yes,Straight,Once a week,No,Yes,Yes,Yes,No,No,No,No,No,No,0
+2025/02/01 9:58:14 pm GMT+5:30,Dinesh kumar s,18-25,Male,No,,,No,No,Never,No,No,Yes,No,Curly,Every other day,No,No,No,No,No,No,No,No,No,No,0
+2025/02/02 5:08:07 am GMT+5:30,N M Pradeep ,26-35,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Daily,No,Yes,No,Yes,No,Yes,No,No,No,No,1
+2025/02/02 7:38:26 am GMT+5:30,Annu,18-25,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/02 7:40:22 am GMT+5:30,Abirami,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/02 7:43:12 am GMT+5:30,Ram M,26-35,Male,No,,,No,No,Never,Yes,Yes,No,Yes,Straight,Every other day,No,No,No,Yes,No,Yes,No,Yes,No,No,1
+2025/02/02 3:20:38 pm GMT+5:30,Sanjeev.d,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,No,Yes,No,Curly,Once a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/02 7:23:59 pm GMT+5:30,Kiretheka P,18-25,Female,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/02 8:49:16 pm GMT+5:30,Kowsik,18-25,Male,No,,,No,No,Few times a week,Yes,No,Yes,Yes,Straight,Twice a week,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,0
+2025/02/02 8:51:42 pm GMT+5:30,Prasath S,18-25,Male,No,,,No,No,Never,Yes,No,Yes,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/02 9:38:56 pm GMT+5:30,Abinaya S ,18-25,Female,No,,,No,No,Never,No,No,No,Yes,Straight,Once a week,No,No,No,Yes,Yes,Yes,No,No,No,No,1
+2025/02/03 5:07:41 pm GMT+5:30,Guhan ,18-25,Male,Yes,Male pattern baldness,Other,No,No,Rarely,No,No,No,No,Straight,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/04 7:33:15 am GMT+5:30,Imaya,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 7:35:03 am GMT+5:30,S.Jasmitha,18-25,Female,No,,,No,No,Never,No,No,No,Yes,Straight,Every other day,No,Yes,No,Yes,No,Yes,No,No,No,No,1
+2025/02/04 7:36:23 am GMT+5:30,Rithu,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Curly,Daily,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,1
+2025/02/04 7:38:56 am GMT+5:30,Dharani,26-35,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Coily,Every other day,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,1
+2025/02/04 7:40:15 am GMT+5:30,Sabarish P,18-25,Male,No,,,Yes,No,Never,Yes,Yes,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 7:41:23 am GMT+5:30,Prasana,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,Yes,No,Straight,Daily,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,1
+2025/02/04 7:42:28 am GMT+5:30,Arun kumar T,26-35,Male,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 7:43:25 am GMT+5:30,Ramya,46-60,Female,No,,,No,No,Rarely,No,Yes,No,No,Coily,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 7:44:35 am GMT+5:30,Saranya M,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/04 7:45:26 am GMT+5:30,Geetha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,Yes,No,Yes,1
+2025/02/04 7:47:36 am GMT+5:30,Sindhumathi M,18-25,Female,No,,,No,No,Never,Yes,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/04 7:50:47 am GMT+5:30,Manoritha,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,No,No,Curly,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/04 7:52:44 am GMT+5:30,Arun dinesh,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,Yes,Wavy,Daily,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,0
+2025/02/04 7:54:25 am GMT+5:30,Kavin prasath,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,Yes,Yes,No,Yes,Straight,Twice a week,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/04 7:56:20 am GMT+5:30,Ram prasath,36-45,Male,Yes,Male pattern baldness,Asian,Yes,No,Never,Yes,Yes,Yes,Yes,Curly,Daily,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,1
+2025/02/04 7:57:22 am GMT+5:30,Ragul,26-35,Male,No,,,No,No,Rarely,No,Yes,No,No,Wavy,Daily,No,Yes,No,Yes,No,No,No,No,No,No,0
+2025/02/04 7:57:58 am GMT+5:30,Vigneshwer T,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 7:58:36 am GMT+5:30,Sangavi,26-35,Female,No,,,No,No,Rarely,No,Yes,No,No,Straight,Twice a week,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/04 8:00:07 am GMT+5:30,Karthik ,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Curly,Daily,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/04 8:00:55 am GMT+5:30,Manish M,18-25,Male,No,,,Yes,No,Rarely,Yes,Yes,No,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 8:01:51 am GMT+5:30,Mohan,36-45,Male,No,,,Yes,Yes,Never,No,Yes,No,No,Curly,Twice a week,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,0
+2025/02/04 8:05:41 am GMT+5:30,Gopalkrishnan,46-60,Male,No,,,Yes,No,Never,No,Yes,No,No,Wavy,Daily,No,Yes,Yes,No,Yes,Yes,No,No,No,No,0
+2025/02/04 8:07:11 am GMT+5:30,Akash A,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 8:10:36 am GMT+5:30,Tamil Selvi A,36-45,Female,No,,,No,No,Never,Yes,No,No,No,Straight,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/04 8:12:43 am GMT+5:30,Sumathi M,36-45,Female,No,,,No,No,Never,No,Yes,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 11:17:26 am GMT+5:30,Siva,18-25,Male,No,,,No,No,Daily,No,Yes,No,Yes,Curly,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/02/04 11:18:10 am GMT+5:30,Bala,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,No,Straight,Every other day,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/04 11:19:23 am GMT+5:30,Lithin,26-35,Male,Yes,Female pattern baldness,African,No,No,Rarely,No,Yes,Yes,No,Curly,Daily,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,1
+2025/02/04 11:20:55 am GMT+5:30,Gopi,46-60,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/04 11:22:04 am GMT+5:30,Gowtham,18-25,Male,No,,,Yes,No,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,0
+2025/02/04 1:50:31 pm GMT+5:30,Sathya,26-35,Male,No,,,No,No,Never,No,Yes,Yes,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 1:53:31 pm GMT+5:30,Preveen R,18-25,Male,No,,,No,No,Never,No,Yes,Yes,Yes,Curly,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 1:56:12 pm GMT+5:30,Henry A,36-45,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:09:17 pm GMT+5:30,Vikash,26-35,Male,No,,,No,Yes,Never,No,Yes,No,No,Wavy,Twice a week,No,Yes,No,Yes,No,Yes,No,No,No,No,0
+2025/02/04 5:10:34 pm GMT+5:30,Vigneshkumar,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,Yes,Yes,No,Yes,Straight,Twice a week,Yes,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/04 5:13:01 pm GMT+5:30,Dharun,36-45,Male,No,,,No,No,Never,No,Yes,No,Yes,Curly,Daily,No,Yes,No,Yes,No,Yes,No,No,No,No,1
+2025/02/04 5:14:20 pm GMT+5:30,Ruhan,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,No,Yes,No,No,Straight,Once a week,Yes,No,No,No,No,No,No,Yes,No,No,0
+2025/02/04 5:16:43 pm GMT+5:30,Poorani ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,Yes,Yes,No,Yes,Straight,Twice a week,Yes,Yes,No,Yes,No,Yes,No,No,No,No,1
+2025/02/04 5:19:11 pm GMT+5:30,Moulish,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,Yes,Yes,Yes,Yes,Straight,Twice a week,No,No,No,Yes,Yes,Yes,Yes,No,No,No,1
+2025/02/04 5:20:11 pm GMT+5:30,Pon sangavi,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Straight,Twice a week,Yes,Yes,No,No,Yes,No,No,No,Yes,No,0
+2025/02/04 5:21:51 pm GMT+5:30,Uma,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Curly,Twice a week,Yes,No,No,No,No,No,Yes,No,No,Yes,0
+2025/02/04 5:23:54 pm GMT+5:30,Rudhara,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Curly,Daily,No,No,No,No,No,No,No,No,No,No,0
+2025/02/04 5:25:01 pm GMT+5:30,Prabha S,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,No,Wavy,Every other day,No,No,No,No,No,No,No,No,No,No,0
+2025/02/04 5:25:12 pm GMT+5:30,Kamal,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,Yes,Yes,Wavy,Daily,Yes,No,No,No,No,No,No,No,No,No,0
+2025/02/04 5:26:23 pm GMT+5:30,Pradeep Kumar ,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,No,Yes,Wavy,Daily,Yes,No,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/04 5:27:55 pm GMT+5:30,Rajavel,18-25,Male,No,,,No,No,Rarely,No,Yes,No,No,Straight,Twice a week,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/04 5:28:06 pm GMT+5:30,Ajay N,18-25,Male,No,,,No,No,Never,No,Yes,Yes,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 5:29:11 pm GMT+5:30,Ganesh,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,No,Yes,Yes,Wavy,Every other day,Yes,Yes,No,No,No,No,No,No,No,No,1
+2025/02/04 5:30:09 pm GMT+5:30,Surya T,26-35,Male,No,,,No,No,Few times a week,No,No,No,Yes,Wavy,Twice a week,Yes,No,No,No,No,Yes,No,No,No,No,1
+2025/02/04 5:31:23 pm GMT+5:30,Krishnan L,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,Yes,0
+2025/02/04 5:32:40 pm GMT+5:30,Muthu kumar,26-35,Male,No,,,No,No,Never,No,No,No,No,Wavy,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/04 5:34:50 pm GMT+5:30,Labitha,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Curly,Twice a week,Yes,No,No,No,No,No,Yes,No,No,No,1
+2025/02/04 5:35:18 pm GMT+5:30,Akashya G,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:44:01 pm GMT+5:30,Swesthika,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Straight,Twice a week,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/04 5:45:59 pm GMT+5:30,Rakshana,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Curly,Twice a week,Yes,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:47:40 pm GMT+5:30,Rokith,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,No,No,No,Yes,Straight,Every other day,No,No,No,No,No,Yes,No,No,No,No,1
+2025/02/04 5:49:05 pm GMT+5:30,Jay ram T,18-25,Male,No,,,No,No,Rarely,No,No,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:51:10 pm GMT+5:30,Roshan,26-35,Male,No,,,No,No,Rarely,No,Yes,No,No,Wavy,Twice a week,No,Yes,No,Yes,No,No,Yes,Yes,No,No,1
+2025/02/04 5:52:45 pm GMT+5:30,Libika,18-25,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Curly,Daily,No,No,No,No,No,No,No,No,No,No,1
+2025/02/04 5:54:59 pm GMT+5:30,Boovitha ,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,No,Coily,Every other day,Yes,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:55:40 pm GMT+5:30,Sugumar S,18-25,Male,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Every other day,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:57:34 pm GMT+5:30,Sherin M,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 5:58:08 pm GMT+5:30,Boobesh,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,No,Yes,Straight,Every other day,No,No,No,No,No,Yes,No,No,No,No,1
+2025/02/04 5:59:36 pm GMT+5:30,Nila,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Curly,Twice a week,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/04 6:00:06 pm GMT+5:30,Dharshan S,18-25,Male,No,,,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 6:00:27 pm GMT+5:30,Sureshkumar,36-45,Male,No,,,No,No,Rarely,No,Yes,No,No,Coily,Every other day,No,No,No,No,No,No,Yes,No,No,Yes,1
+2025/02/04 6:01:32 pm GMT+5:30,Nisan,18-25,Male,No,,,No,No,Never,No,No,No,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 6:02:52 pm GMT+5:30,Sanju ,18-25,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 6:04:05 pm GMT+5:30,Vedha Sasthika,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/04 6:21:00 pm GMT+5:30,Raksitha,26-35,Female,No,,,No,No,Few times a week,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,Yes,No,No,Yes,No,1
+2025/02/04 7:21:36 pm GMT+5:30,Kamesh,18-25,Male,Yes,Male pattern baldness,African,No,No,Rarely,Yes,Yes,No,No,Curly,Daily,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,1
+2025/02/04 7:27:53 pm GMT+5:30,Ajay,26-35,Female,Yes,Female pattern baldness,African,Yes,Yes,Never,Yes,No,Yes,No,Curly,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,1
+2025/02/04 7:29:13 pm GMT+5:30,AjayKumar,26-35,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/04 7:37:49 pm GMT+5:30,kannan,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Curly,Daily,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/04 7:43:16 pm GMT+5:30,kavi,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,No,No,No,Curly,Twice a week,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/04 7:45:10 pm GMT+5:30,priya,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/04 7:46:27 pm GMT+5:30,kavitha,26-35,Male,No,,,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Wavy,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/04 7:47:49 pm GMT+5:30,vishalini,36-45,Female,Yes,Female pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,No,No,Wavy,Every other day,Yes,No,No,Yes,Yes,Yes,No,No,No,No,1
+2025/02/04 7:49:03 pm GMT+5:30,padmashini,18-25,Female,Yes,Female pattern baldness,African,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/04 7:50:13 pm GMT+5:30,monika,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,0
+2025/02/04 7:51:32 pm GMT+5:30,keerthana,18-25,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,No,No,No,No,Yes,Yes,No,Yes,No,Yes,1
+2025/02/05 6:01:18 am GMT+5:30,Ritika,18-25,Female,No,,,No,No,Daily,No,No,No,No,Curly,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/05 6:02:22 am GMT+5:30,Nithish kumar C,18-25,Female,No,,,No,No,Few times a week,No,Yes,No,No,Coily,Once a week,Yes,Yes,No,No,No,No,Yes,No,No,No,1
+2025/02/05 6:03:23 am GMT+5:30,sureshkannan,36-45,Male,No,,,Yes,No,Never,No,Yes,Yes,No,Curly,Every other day,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/05 6:05:00 am GMT+5:30,Rajkumar,26-35,Male,No,,,No,No,Few times a week,No,No,No,No,Wavy,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/05 10:00:10 am GMT+5:30,Shifa,18-25,Female,No,,,No,No,Rarely,No,Yes,No,No,Straight,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/05 10:00:57 am GMT+5:30,ragu,26-35,Male,No,,,No,No,Few times a week,No,No,No,No,Coily,Every other day,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/05 10:01:40 am GMT+5:30,rahul,26-35,Male,No,,,No,No,Few times a week,No,No,Yes,No,Coily,Once a week,No,No,No,No,No,No,Yes,No,No,No,1
+2025/02/05 10:02:20 am GMT+5:30,suryas,46-60,Others,No,,,Yes,No,Never,Yes,Yes,No,No,Curly,Twice a week,No,No,No,No,No,Yes,Yes,Yes,No,No,1
+2025/02/05 10:02:48 am GMT+5:30,Shifa Thahsina ,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/05 10:03:12 am GMT+5:30,siva p,Above 60,Male,Yes,Male pattern baldness,Other,Yes,No,Never,No,No,Yes,No,Coily,Once a week,No,Yes,No,No,No,No,No,No,No,Yes,0
+2025/02/05 10:04:07 am GMT+5:30,harani,26-35,Female,Yes,Male pattern baldness,African,No,Yes,Never,No,No,No,No,Straight,Daily,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,1
+2025/02/05 10:04:59 am GMT+5:30,sachin smart,36-45,Male,No,,,No,No,Never,No,Yes,No,No,Coily,Twice a week,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/05 10:05:40 am GMT+5:30,sujith,26-35,Others,No,,,No,No,Never,No,No,No,Yes,Straight,Every other day,No,Yes,No,No,No,Yes,No,Yes,No,No,1
+2025/02/05 10:06:30 am GMT+5:30,gurusamy,Above 60,Male,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,No,No,Coily,Twice a week,No,Yes,No,Yes,Yes,No,No,No,No,No,1
+2025/02/05 10:07:55 am GMT+5:30,kanu,18-25,Male,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,No,Coily,Once a week,No,No,No,No,No,No,No,No,No,Yes,0
+2025/02/05 10:08:39 am GMT+5:30,nandhini,Above 60,Female,No,,,No,No,Never,No,No,No,No,Coily,Once a week,No,Yes,No,No,No,No,No,No,No,No,1
+2025/02/05 10:09:13 am GMT+5:30,nandhu,26-35,Male,No,,,No,No,Never,Yes,No,Yes,No,Wavy,Every other day,No,No,No,Yes,Yes,No,No,No,No,No,1
+2025/02/06 10:50:11 am GMT+5:30,Slochana,26-35,Female,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,No,Coily,Twice a week,Yes,No,No,No,Yes,Yes,No,No,No,Yes,1
+2025/02/06 10:51:29 am GMT+5:30,Sakthi,26-35,Male,No,,,Yes,Yes,Never,No,Yes,No,No,Curly,Twice a week,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,1
+2025/02/06 10:52:56 am GMT+5:30,Mithun,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,No,Yes,No,Wavy,Twice a week,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/06 10:54:10 am GMT+5:30,Prabhu,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,No,No,Yes,No,Curly,Every other day,No,No,No,Yes,No,Yes,Yes,No,No,No,1
+2025/02/06 10:55:45 am GMT+5:30,Mohan prabhu,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,No,Yes,No,No,Wavy,Twice a week,No,Yes,Yes,No,No,Yes,Yes,No,No,No,1
+2025/02/06 11:00:21 am GMT+5:30,Loganathan,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,No,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,Yes,Yes,Yes,No,No,No,No,1
+2025/02/06 11:01:18 am GMT+5:30,Saravanakumar,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,No,Straight,Every other day,No,Yes,No,Yes,No,Yes,Yes,No,No,No,1
+2025/02/06 11:02:05 am GMT+5:30,Sasnika,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Wavy,Twice a week,Yes,No,Yes,No,No,Yes,No,Yes,No,No,1
+2025/02/06 11:02:51 am GMT+5:30,Ragul,26-35,Male,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Every other day,Yes,No,No,No,No,No,Yes,No,Yes,No,0
+2025/02/06 11:03:38 am GMT+5:30,Kumaravel,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Wavy,Every other day,No,No,Yes,No,No,Yes,Yes,No,Yes,No,1
+2025/02/06 11:06:33 am GMT+5:30,Loga priya,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,No,Curly,Every other day,No,Yes,No,No,Yes,No,Yes,Yes,No,No,1
+2025/02/06 11:31:50 am GMT+5:30,Murugesh,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,Yes,No,Yes,No,Wavy,Every other day,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/06 11:35:03 am GMT+5:30,Rudharan,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Curly,Twice a week,Yes,No,Yes,No,No,Yes,No,No,No,No,1
+2025/02/06 11:35:52 am GMT+5:30,Logavarshini,26-35,Female,No,,,No,No,Rarely,No,No,Yes,No,Curly,Once a week,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/06 2:13:19 pm GMT+5:30,Srinithi,26-35,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Twice a week,Yes,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/06 3:10:34 pm GMT+5:30,SANJEEVI G,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Straight,Daily,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,1
+2025/02/06 5:01:01 pm GMT+5:30,Ronald,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,Yes,No,No,Yes,Curly,Twice a week,Yes,No,No,No,Yes,No,No,Yes,No,No,1
+2025/02/06 5:02:35 pm GMT+5:30,Mohanlal,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,Yes,Coily,Twice a week,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,1
+2025/02/06 5:03:21 pm GMT+5:30,Mouli,18-25,Male,No,,,No,Yes,Few times a week,Yes,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/06 5:04:02 pm GMT+5:30,Bharathi,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,Yes,No,Straight,Every other day,No,Yes,No,No,Yes,No,No,No,No,No,0
+2025/02/06 5:04:45 pm GMT+5:30,Monisha,36-45,Female,No,,,No,No,Rarely,Yes,No,Yes,No,Curly,Every other day,Yes,Yes,No,Yes,No,Yes,No,No,No,No,0
+2025/02/06 5:05:27 pm GMT+5:30,Theja,18-25,Female,No,,,No,No,Rarely,No,Yes,Yes,No,Straight,Twice a week,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,1
+2025/02/06 5:08:51 pm GMT+5:30,Pugalvelan,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,Yes,No,Yes,No,Wavy,Twice a week,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,1
+2025/02/06 5:10:03 pm GMT+5:30,Sujithra,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Wavy,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,1
+2025/02/06 5:10:49 pm GMT+5:30,Guhan,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,Yes,Yes,Yes,No,No,No,No,1
+2025/02/06 5:13:49 pm GMT+5:30,Aarthiga,36-45,Female,No,,,No,No,Rarely,No,Yes,Yes,No,Coily,Every other day,Yes,No,No,Yes,No,Yes,No,Yes,No,No,1
+2025/02/06 5:15:16 pm GMT+5:30,Ramprasath,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,Yes,Yes,Straight,Every other day,Yes,No,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/06 5:16:36 pm GMT+5:30,Robert,46-60,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,No,Yes,No,No,Curly,Twice a week,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,1
+2025/02/06 5:17:46 pm GMT+5:30,Rajashree,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Never,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/06 5:18:48 pm GMT+5:30,Sathvic,18-25,Male,No,,,No,No,Never,Yes,Yes,No,Yes,Curly,Daily,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,1
+2025/02/06 5:19:58 pm GMT+5:30,Sowmiya,18-25,Female,No,,,No,No,Daily,No,Yes,No,No,Straight,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,1
+2025/02/06 5:21:10 pm GMT+5:30,Ragavi,26-35,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Straight,Every other day,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,1
+2025/02/06 5:23:09 pm GMT+5:30,Rithnya mohan,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,Yes,No,Straight,Every other day,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/06 5:25:58 pm GMT+5:30,Renuka,36-45,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Curly,Twice a week,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1
+2025/02/06 5:26:59 pm GMT+5:30,Reshmi,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,No,Straight,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/06 5:28:24 pm GMT+5:30,Boopathi,26-35,Male,No,,,No,Yes,Rarely,No,No,Yes,Yes,Straight,Every other day,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/06 5:29:30 pm GMT+5:30,Fathima,26-35,Female,Yes,Female pattern baldness,Asian,No,Yes,Few times a week,No,No,No,Yes,Curly,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,1
+2025/02/06 8:38:24 pm GMT+5:30,Sasmi,26-35,Female,No,,,No,No,Rarely,No,Yes,Yes,No,Straight,Once a week,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,1
+2025/02/06 8:39:59 pm GMT+5:30,Yamimipriya,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,Yes,No,Wavy,Once a week,No,No,Yes,No,Yes,Yes,Yes,No,No,No,1
+2025/02/07 7:32:29 am GMT+5:30,Rakesh T,18-25,Male,No,,,No,No,Never,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/07 7:33:34 am GMT+5:30,Diviya K,18-25,Female,No,,,No,No,Never,No,No,No,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/07 7:35:33 am GMT+5:30,Venmathi,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/07 7:37:38 am GMT+5:30,Hariharan G,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,Yes,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/07 7:39:46 am GMT+5:30,Ramya K,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/07 7:44:40 am GMT+5:30,Kathir A,18-25,Male,No,,,No,No,Rarely,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/07 7:46:20 am GMT+5:30,Karthika P,18-25,Female,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/07 7:50:26 am GMT+5:30,Yash,18-25,Male,No,,,No,No,Rarely,Yes,Yes,No,Yes,Straight,Every other day,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/07 9:38:05 am GMT+5:30,Pushpa ,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Coily,Twice a week,Yes,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/09 5:28:28 pm GMT+5:30,Harishma,36-45,Female,No,,,No,No,Rarely,Yes,Yes,No,No,Wavy,Every other day,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,1
+2025/02/09 5:31:16 pm GMT+5:30,Paripoorna ,26-35,Female,No,,,No,No,Rarely,Yes,No,No,Yes,Coily,Once a week,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1
+2025/02/09 5:32:18 pm GMT+5:30,Srisanmathi,36-45,Female,No,,,No,No,Never,Yes,Yes,Yes,No,Wavy,Twice a week,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,1
+2025/02/09 5:33:07 pm GMT+5:30,Sanmathi D ,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,No,Wavy,Every other day,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/09 5:34:30 pm GMT+5:30,Poovathal,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,No,Wavy,Twice a week,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/09 5:35:43 pm GMT+5:30,Pragya,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1
+2025/02/09 5:39:12 pm GMT+5:30,Sanjana,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,Yes,Yes,No,Yes,Wavy,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/09 5:43:44 pm GMT+5:30,Priya murugesh ,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,Yes,No,Wavy,Daily,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1
+2025/02/09 5:47:47 pm GMT+5:30,Aravind ,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,No,Yes,Wavy,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1
+2025/02/09 5:50:46 pm GMT+5:30,Keerthana,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,No,No,Straight,Once a week,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/09 5:53:52 pm GMT+5:30,Indhuja,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,No,Straight,Every other day,Yes,No,Yes,No,No,Yes,No,No,No,No,1
+2025/02/09 5:54:57 pm GMT+5:30,Disa,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/09 6:00:12 pm GMT+5:30,Sasi,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,No,Yes,Yes,Yes,No,No,No,1
+2025/02/09 6:02:31 pm GMT+5:30,Logapriya,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,No,Yes,Yes,Curly,Every other day,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,1
+2025/02/09 6:04:12 pm GMT+5:30,Vasanthavelan,26-35,Male,No,,,No,Yes,Rarely,No,Yes,Yes,Yes,Straight,Every other day,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,1
+2025/02/09 6:20:43 pm GMT+5:30,Kesavi,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Wavy,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/09 6:23:41 pm GMT+5:30,Haritha,26-35,Female,No,,,No,No,Few times a week,No,No,Yes,No,Straight,Daily,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,1
+2025/02/09 6:24:27 pm GMT+5:30,Mathi,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,Yes,Yes,Straight,Daily,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,1
+2025/02/09 6:25:36 pm GMT+5:30,Mathivarshini S,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,No,Wavy,Every other day,Yes,No,No,No,Yes,Yes,No,No,Yes,No,1
+2025/02/09 6:29:18 pm GMT+5:30,Sivaambihai,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,Yes,Yes,Wavy,Daily,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/09 6:31:43 pm GMT+5:30,Abinaya,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Straight,Twice a week,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/09 6:33:50 pm GMT+5:30,Karthika,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,Yes,Wavy,Daily,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/09 6:34:54 pm GMT+5:30,Guru,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,No,Yes,Straight,Daily,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,0
+2025/02/09 6:36:06 pm GMT+5:30,Rajathi,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,No,Wavy,Every other day,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,0
+2025/02/09 6:43:41 pm GMT+5:30,Santhosh Kumar ,36-45,Male,Yes,Female pattern baldness,Asian,No,Yes,Daily,Yes,No,No,Yes,Curly,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/09 7:00:40 pm GMT+5:30,Ranjith Kumar ,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Daily,No,Yes,No,Yes,Straight,Twice a week,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,0
+2025/02/09 7:01:55 pm GMT+5:30,Renuga,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,Yes,No,No,Straight,Every other day,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,0
+2025/02/09 7:02:08 pm GMT+5:30,Risi,18-25,Male,No,,,No,No,Few times a week,Yes,Yes,Yes,No,Curly,Twice a week,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,0
+2025/02/09 7:04:16 pm GMT+5:30,Yogeshwar ,26-35,Male,No,,,No,Yes,Few times a week,No,Yes,No,Yes,Curly,Every other day,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/09 7:04:27 pm GMT+5:30,Ramesh Kumar Singh ,26-35,Male,No,,,Yes,No,Few times a week,Yes,No,No,Yes,Wavy,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/09 7:05:32 pm GMT+5:30,Santosh Sharma ,Above 60,Male,No,,,No,Yes,Few times a week,Yes,Yes,Yes,No,Curly,Twice a week,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/09 7:05:53 pm GMT+5:30,Sasikumar,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Every other day,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,0
+2025/02/09 7:06:40 pm GMT+5:30,Prem Kumar ,46-60,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Coily,Twice a week,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,0
+2025/02/09 7:06:56 pm GMT+5:30,Rathanam,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,Yes,Curly,Twice a week,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,0
+2025/02/09 7:08:34 pm GMT+5:30,Mogan,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Wavy,Every other day,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,1
+2025/02/09 7:11:35 pm GMT+5:30,Gandhi,36-45,Female,No,,,No,No,Never,Yes,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:12:06 pm GMT+5:30,Sundharam,36-45,Male,No,,,Yes,Yes,Few times a week,Yes,No,Yes,No,Coily,Daily,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/09 7:13:32 pm GMT+5:30,Rudhvic,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,Yes,Yes,No,Yes,Wavy,Once a week,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,0
+2025/02/09 7:14:34 pm GMT+5:30,Vasanthamani,36-45,Female,Yes,Female pattern baldness,Asian,No,Yes,Few times a week,No,Yes,No,Yes,Curly,Daily,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,1
+2025/02/09 7:15:39 pm GMT+5:30,Manikandan,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,Yes,No,Wavy,Twice a week,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/09 7:16:07 pm GMT+5:30,Arun Singh ,26-35,Male,No,,,No,No,Rarely,No,No,No,Yes,Curly,Every other day,No,No,No,Yes,No,Yes,No,Yes,No,No,1
+2025/02/09 7:17:09 pm GMT+5:30,Manisha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Curly,Every other day,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,0
+2025/02/09 7:17:10 pm GMT+5:30,Kishore ,18-25,Male,No,,,No,No,Never,No,Yes,Yes,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:18:11 pm GMT+5:30,Dhanush ,26-35,Male,No,,,No,No,Never,No,Yes,Yes,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 7:19:16 pm GMT+5:30,Heya ,18-25,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:21:08 pm GMT+5:30,Kaniga P,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:21:18 pm GMT+5:30,Ms dhoni,18-25,Male,No,,,No,No,Never,No,Yes,Yes,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 7:21:36 pm GMT+5:30,Mani,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,No,Yes,Curly,Daily,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1
+2025/02/09 7:22:27 pm GMT+5:30,Sanju ,Above 60,Female,No,,,Yes,No,Few times a week,No,Yes,Yes,Yes,Straight,Daily,No,No,No,Yes,No,No,Yes,No,Yes,Yes,0
+2025/02/09 7:23:38 pm GMT+5:30,Madhura,36-45,Female,No,,,Yes,Yes,Daily,Yes,Yes,No,Yes,Coily,Every other day,Yes,No,Yes,Yes,Yes,No,No,No,No,No,1
+2025/02/09 7:24:54 pm GMT+5:30,Appasu,36-45,Male,No,,,No,No,Never,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 7:25:14 pm GMT+5:30,Riswanth,18-25,Male,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,Yes,No,No,No,Yes,No,No,Yes,0
+2025/02/09 7:26:29 pm GMT+5:30,Sanviga G,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 7:26:32 pm GMT+5:30,Kaviiyugan,36-45,Male,No,,,No,Yes,Rarely,No,No,No,No,Wavy,Daily,No,No,Yes,No,No,No,No,Yes,No,No,0
+2025/02/09 7:27:37 pm GMT+5:30,Aswath,26-35,Male,No,,,No,No,Daily,No,No,No,No,Wavy,Daily,No,No,No,No,No,No,Yes,No,No,No,1
+2025/02/09 7:28:55 pm GMT+5:30,Kalaiamuthu,36-45,Female,No,,,No,No,Never,No,No,No,No,Wavy,Every other day,Yes,No,Yes,No,No,No,No,No,No,No,0
+2025/02/09 7:30:00 pm GMT+5:30,Ashwin,36-45,Male,No,,,Yes,Yes,Never,No,Yes,Yes,Yes,Straight,Daily,No,No,Yes,Yes,No,No,No,No,Yes,Yes,0
+2025/02/09 7:31:08 pm GMT+5:30,Dhevesh Kumar ,Above 60,Male,No,,,Yes,Yes,Daily,No,Yes,Yes,Yes,Coily,Every other day,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,1
+2025/02/09 7:31:56 pm GMT+5:30,Devdharsan,36-45,Male,No,,,Yes,No,Few times a week,Yes,No,No,Yes,Wavy,Every other day,No,Yes,Yes,No,No,No,No,Yes,No,No,0
+2025/02/09 7:32:47 pm GMT+5:30,Deetchit,26-35,Male,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,Yes,Yes,No,1
+2025/02/09 7:33:34 pm GMT+5:30,Nakul,36-45,Male,No,,,No,No,Daily,No,No,No,No,Wavy,Every other day,No,No,No,No,Yes,No,Yes,No,No,No,0
+2025/02/09 7:34:13 pm GMT+5:30,Naren,46-60,Male,No,,,No,Yes,Rarely,No,No,No,Yes,Wavy,Once a week,No,No,No,No,No,No,No,Yes,No,No,1
+2025/02/09 7:35:03 pm GMT+5:30,Pranav Varshan,26-35,Male,No,,,No,Yes,Few times a week,No,No,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:35:12 pm GMT+5:30,Rajkumar ,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,No,No,Yes,Coily,Daily,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,1
+2025/02/09 7:35:48 pm GMT+5:30,Rithik,36-45,Male,No,,,No,No,Never,No,No,No,No,Curly,Once a week,No,No,No,No,Yes,No,No,No,No,Yes,1
+2025/02/09 7:36:46 pm GMT+5:30,Sai Sanjith,36-45,Male,No,,,Yes,No,Never,Yes,No,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/09 7:37:37 pm GMT+5:30,Saswinth Shri,36-45,Male,No,,,No,No,Rarely,No,No,No,No,Curly,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/09 7:38:29 pm GMT+5:30,Sashvin Aakash,46-60,Male,No,,,No,Yes,Never,No,No,No,No,Curly,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/09 7:38:53 pm GMT+5:30,Kavitha,36-45,Female,No,,,No,No,Rarely,Yes,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:39:14 pm GMT+5:30,Yashwanth,46-60,Male,No,,,No,No,Rarely,No,No,No,No,Curly,Twice a week,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/09 7:40:00 pm GMT+5:30,Dhansika,Above 60,Female,No,,,No,No,Few times a week,No,No,No,No,Coily,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/09 7:40:57 pm GMT+5:30,Jayashree,46-60,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Once a week,No,No,No,No,No,No,No,No,No,Yes,1
+2025/02/09 7:41:56 pm GMT+5:30,Karthik santhosh ,18-25,Male,No,,,No,No,Rarely,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/09 7:42:00 pm GMT+5:30,Mithra,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,No,Straight,Once a week,No,Yes,Yes,No,No,No,No,Yes,No,Yes,1
+2025/02/09 7:42:43 pm GMT+5:30,Mithra Sree,46-60,Female,No,,,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/09 7:43:19 pm GMT+5:30,Mohithaa,36-45,Female,No,,,No,No,Daily,No,No,No,No,Straight,Twice a week,Yes,No,No,Yes,No,Yes,No,Yes,No,No,1
+2025/02/09 7:44:16 pm GMT+5:30,Niviya Sri,46-60,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Straight,Once a week,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,1
+2025/02/09 7:44:46 pm GMT+5:30,Prem kumar H,18-25,Male,No,,,No,No,Rarely,No,No,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:45:26 pm GMT+5:30,Pranyga,36-45,Male,No,,,No,No,Few times a week,No,No,Yes,No,Curly,Twice a week,Yes,No,No,No,Yes,No,No,No,No,No,1
+2025/02/09 7:46:10 pm GMT+5:30,Raksita,Above 60,Female,Yes,Male pattern baldness,Asian,Yes,No,Rarely,No,No,No,No,Coily,Once a week,Yes,No,No,No,No,No,No,Yes,Yes,No,1
+2025/02/09 7:46:49 pm GMT+5:30,Sadhana,36-45,Female,No,,,Yes,No,Daily,No,No,No,No,Wavy,Every other day,Yes,No,No,No,Yes,No,Yes,No,No,No,1
+2025/02/09 7:47:42 pm GMT+5:30,Samrudha Ramesh ,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Never,Yes,No,No,No,Coily,Once a week,No,No,No,No,Yes,No,No,No,No,No,1
+2025/02/09 7:48:16 pm GMT+5:30,Sanjana,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,No,Wavy,Twice a week,No,Yes,No,No,Yes,No,No,No,No,Yes,1
+2025/02/09 7:48:26 pm GMT+5:30,Raja sree T,18-25,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:48:58 pm GMT+5:30,Sudhisna,46-60,Female,No,,,No,No,Few times a week,Yes,No,No,No,Curly,Twice a week,No,Yes,No,No,No,No,No,No,No,No,1
+2025/02/09 7:49:42 pm GMT+5:30,Vetha Sastika,36-45,Female,No,,,No,No,Never,No,No,No,No,Coily,Twice a week,Yes,No,No,No,Yes,No,No,No,No,No,1
+2025/02/09 7:50:00 pm GMT+5:30,Mani S,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 7:50:24 pm GMT+5:30,Bhavi,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/09 7:51:13 pm GMT+5:30,Monavi,26-35,Others,No,,,Yes,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,Yes,Yes,No,Yes,Yes,1
+2025/02/09 7:52:45 pm GMT+5:30,Saran,26-35,Others,No,,,No,No,Never,No,No,No,Yes,Coily,Twice a week,Yes,Yes,No,No,No,No,No,Yes,No,No,1
+2025/02/09 7:53:28 pm GMT+5:30,Darshan ,36-45,Others,No,,,No,No,Daily,No,No,No,No,Wavy,Daily,No,No,No,No,No,No,No,Yes,No,No,1
+2025/02/09 7:54:25 pm GMT+5:30,Kaniha,36-45,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,Yes,No,No,1
+2025/02/09 7:56:17 pm GMT+5:30,Nitin ,36-45,Male,No,,,No,No,Few times a week,Yes,No,No,No,Curly,Daily,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,1
+2025/02/09 7:58:49 pm GMT+5:30,Sujitha,36-45,Female,Yes,Female pattern baldness,Asian,No,Yes,Few times a week,Yes,No,No,No,Coily,Every other day,Yes,No,Yes,Yes,No,No,No,No,No,No,1
+2025/02/09 8:00:13 pm GMT+5:30,Lakshitha ,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Every other day,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/09 8:06:36 pm GMT+5:30,Vikashini,18-25,Female,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 8:27:11 pm GMT+5:30,Vikashini,36-45,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,No,Yes,Yes,Yes,Wavy,Every other day,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,1
+2025/02/09 8:29:01 pm GMT+5:30,Thirunavu,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,Yes,No,Straight,Daily,No,No,No,Yes,Yes,No,Yes,No,No,No,1
+2025/02/09 8:30:22 pm GMT+5:30,Vikaskumar,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,No,No,Yes,Curly,Once a week,No,No,No,No,No,Yes,No,No,Yes,No,1
+2025/02/09 8:31:03 pm GMT+5:30,Rosemera,36-45,Female,No,,,No,No,Few times a week,Yes,No,No,Yes,Straight,Once a week,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,1
+2025/02/09 8:35:21 pm GMT+5:30,Nandhini,36-45,Female,No,,,No,Yes,Few times a week,Yes,Yes,Yes,No,Curly,Twice a week,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,1
+2025/02/09 8:38:03 pm GMT+5:30,Subiksha,Above 60,Female,No,,,No,No,Rarely,Yes,No,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,Yes,No,No,1
+2025/02/09 8:38:49 pm GMT+5:30,Gayathri ,Above 60,Female,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,No,No,No,Curly,Twice a week,Yes,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 8:39:52 pm GMT+5:30,Mahilini,36-45,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,Yes,Yes,Coily,Twice a week,No,Yes,No,No,No,No,No,No,No,No,1
+2025/02/09 8:40:44 pm GMT+5:30,Praveen Singh ,26-35,Female,Yes,Male pattern baldness,Asian,Yes,No,Never,Yes,No,No,No,Curly,Twice a week,No,No,Yes,No,No,No,No,Yes,No,Yes,1
+2025/02/09 8:41:07 pm GMT+5:30,hari,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,No,Straight,Daily,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,1
+2025/02/09 8:41:42 pm GMT+5:30,Aravind Kumar Sharma ,26-35,Female,No,,,Yes,Yes,Never,Yes,No,No,No,Curly,Daily,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/09 8:42:04 pm GMT+5:30,Kowsika,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,No,Straight,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/09 8:42:48 pm GMT+5:30,Aruna,Above 60,Female,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,No,Coily,Twice a week,No,Yes,No,No,No,No,No,No,No,No,1
+2025/02/09 8:43:37 pm GMT+5:30,Senthil Kumar ,Above 60,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,No,Coily,Daily,Yes,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/09 8:44:36 pm GMT+5:30,Aswathi,36-45,Female,No,,,No,No,Daily,No,No,Yes,Yes,Curly,Daily,No,No,No,No,No,No,No,No,No,No,0
+2025/02/09 8:45:24 pm GMT+5:30,Yoga Priya,26-35,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Every other day,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,0
+2025/02/09 8:46:27 pm GMT+5:30,Dharshini priya,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 8:46:35 pm GMT+5:30,Jana,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,Yes,Yes,Wavy,Every other day,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/09 8:46:44 pm GMT+5:30,Priyanka Sharma Singh ,18-25,Male,Yes,Female pattern baldness,Caucasian,Yes,No,Rarely,No,No,No,Yes,Straight,Every other day,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1
+2025/02/09 8:47:58 pm GMT+5:30,Kumaraswamy ,26-35,Male,Yes,Male pattern baldness,Other,Yes,No,Few times a week,Yes,No,Yes,No,Curly,Twice a week,Yes,No,No,No,No,Yes,No,Yes,No,No,0
+2025/02/09 8:48:52 pm GMT+5:30,Aruna Devi ,36-45,Female,No,,,No,No,Never,No,No,Yes,Yes,Coily,Every other day,Yes,No,No,No,No,No,No,No,Yes,No,0
+2025/02/09 8:49:03 pm GMT+5:30,Saran J,18-25,Male,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 8:49:17 pm GMT+5:30,Varsan,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,Yes,No,Wavy,Twice a week,Yes,No,No,Yes,No,Yes,No,No,No,Yes,1
+2025/02/09 8:49:46 pm GMT+5:30,Palani Swami ,36-45,Male,No,,,No,No,Rarely,No,No,Yes,No,Coily,Twice a week,Yes,No,No,No,Yes,Yes,No,Yes,No,No,1
+2025/02/09 8:50:40 pm GMT+5:30,Praveen,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,Yes,No,Wavy,Every other day,Yes,No,No,Yes,Yes,Yes,No,No,No,No,0
+2025/02/09 8:50:47 pm GMT+5:30,Ram,36-45,Male,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,Yes,No,Curly,Twice a week,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,0
+2025/02/09 8:51:15 pm GMT+5:30,Yamini Priya ,36-45,Female,Yes,Female pattern baldness,African,Yes,Yes,Daily,No,No,No,No,Curly,Once a week,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,0
+2025/02/09 8:51:57 pm GMT+5:30,Yuavasri,26-35,Female,No,,,No,No,Few times a week,No,No,No,Yes,Wavy,Once a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 8:52:04 pm GMT+5:30,Kamalambal ,26-35,Female,No,,,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Coily,Daily,No,Yes,Yes,No,No,No,Yes,No,No,No,1
+2025/02/09 8:52:19 pm GMT+5:30,Hariharasudhan,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,Yes,Curly,Every other day,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,0
+2025/02/09 8:53:00 pm GMT+5:30,Rishi,26-35,Male,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,No,Yes,Yes,Wavy,Twice a week,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/09 8:53:17 pm GMT+5:30,Sachin ,36-45,Male,Yes,Male pattern baldness,African,No,No,Few times a week,No,No,Yes,No,Coily,Daily,Yes,No,Yes,Yes,No,No,No,No,No,No,0
+2025/02/09 8:53:54 pm GMT+5:30,Yash,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,No,No,Straight,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/02/09 8:54:19 pm GMT+5:30,Yuvaraj ,26-35,Male,No,,,No,Yes,Few times a week,No,No,No,No,Coily,Every other day,Yes,No,No,No,No,Yes,Yes,No,No,No,1
+2025/02/09 8:54:37 pm GMT+5:30,Guna,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,0
+2025/02/09 8:55:22 pm GMT+5:30,Surendar ,Above 60,Male,No,,,No,Yes,Few times a week,Yes,No,No,Yes,Curly,Twice a week,No,Yes,No,No,No,No,Yes,Yes,No,No,1
+2025/02/09 8:55:48 pm GMT+5:30,Yashesh,26-35,Male,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/09 8:56:16 pm GMT+5:30,Kamelesh ,36-45,Male,Yes,Male pattern baldness,Other,No,Yes,Daily,Yes,No,Yes,No,Wavy,Every other day,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,0
+2025/02/09 8:56:42 pm GMT+5:30,Kanish,36-45,Male,No,,,No,No,Few times a week,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0
+2025/02/09 8:57:29 pm GMT+5:30,Ravichandhran T,36-45,Male,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,Yes,Yes,No,No,No,No,No,No,0
+2025/02/09 8:57:37 pm GMT+5:30,Yuvan Sastik,46-60,Male,Yes,Male pattern baldness,Other,Yes,Yes,Rarely,No,Yes,Yes,Yes,Wavy,Every other day,No,No,No,No,No,Yes,Yes,Yes,Yes,No,0
+2025/02/09 8:57:49 pm GMT+5:30,Usharani,26-35,Female,No,,,No,No,Rarely,Yes,Yes,No,No,Straight,Every other day,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,1
+2025/02/09 8:58:43 pm GMT+5:30,Jeevika ,Above 60,Female,No,,,No,No,Few times a week,No,No,No,Yes,Curly,Daily,No,No,Yes,No,No,Yes,Yes,No,No,No,1
+2025/02/09 8:59:40 pm GMT+5:30,Palak,26-35,Female,Yes,Female pattern baldness,Other,No,Yes,Never,No,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,Yes,Yes,No,No,No,No,1
+2025/02/09 9:00:41 pm GMT+5:30,Hariprasath,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Daily,No,Yes,Yes,Yes,Wavy,Every other day,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,0
+2025/02/09 9:04:52 pm GMT+5:30,Kamala ,26-35,Female,No,,,Yes,Yes,Rarely,No,No,No,No,Wavy,Daily,No,No,No,No,Yes,No,No,No,Yes,No,1
+2025/02/09 9:05:56 pm GMT+5:30,Deisy,26-35,Female,No,,,No,Yes,Rarely,No,No,No,No,Coily,Twice a week,No,No,No,No,Yes,Yes,No,No,No,Yes,0
+2025/02/09 9:06:22 pm GMT+5:30,Lakshana,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,No,Curly,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,0
+2025/02/09 9:06:26 pm GMT+5:30,Nissa,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/09 9:06:30 pm GMT+5:30,Amelia Jaan,46-60,Female,No,,,No,No,Daily,Yes,No,No,No,Wavy,Twice a week,No,No,No,No,Yes,Yes,No,No,No,No,0
+2025/02/09 9:07:23 pm GMT+5:30,Sudha ,46-60,Female,No,,,No,No,Never,No,No,No,No,Curly,Daily,Yes,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 9:08:06 pm GMT+5:30,Anirudha ,26-35,Male,Yes,Female pattern baldness,Caucasian,No,No,Rarely,Yes,Yes,No,No,Coily,Daily,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,0
+2025/02/09 9:08:19 pm GMT+5:30,Dhana,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,No,Yes,Straight,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,0
+2025/02/09 9:09:22 pm GMT+5:30,Gowtham Pranav ,36-45,Male,No,,,Yes,No,Rarely,No,No,Yes,Yes,Wavy,Every other day,Yes,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/09 9:09:22 pm GMT+5:30,Usha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,Yes,No,Straight,Every other day,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,0
+2025/02/09 9:10:10 pm GMT+5:30,Radha Krishna ,36-45,Male,No,,,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,1
+2025/02/09 9:10:44 pm GMT+5:30,Jayam ,Above 60,Male,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Curly,Daily,No,No,Yes,No,No,Yes,No,No,No,No,0
+2025/02/09 9:11:15 pm GMT+5:30,Jayanth,26-35,Male,Yes,Female pattern baldness,Caucasian,No,No,Rarely,No,No,No,No,Coily,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/09 9:14:27 pm GMT+5:30,Arudhra ,36-45,Female,No,,,No,No,Few times a week,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,Yes,Yes,No,Yes,No,0
+2025/02/09 9:15:51 pm GMT+5:30,Harshan,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,No,Yes,Curly,Daily,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,1
+2025/02/09 9:22:16 pm GMT+5:30,Ilakiya,26-35,Female,No,,,No,No,Rarely,Yes,Yes,Yes,No,Coily,Once a week,Yes,No,No,No,Yes,No,Yes,No,Yes,No,0
+2025/02/09 9:23:24 pm GMT+5:30,Rudra ,36-45,Female,Yes,Female pattern baldness,African,Yes,Yes,Never,No,No,No,No,Wavy,Once a week,No,No,No,No,No,No,No,Yes,No,Yes,0
+2025/02/09 9:24:51 pm GMT+5:30,Anu devi ,26-35,Male,No,,,No,No,Never,No,No,No,Yes,Curly,Every other day,No,No,No,No,No,No,No,No,Yes,No,1
+2025/02/10 7:44:44 am GMT+5:30,Priya Asokkumar ,26-35,Female,No,,,No,No,Never,No,Yes,Yes,No,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/10 4:20:49 pm GMT+5:30,Johnson,18-25,Male,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/10 5:06:04 pm GMT+5:30,Sonapriya,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Straight,Every other day,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/10 5:09:06 pm GMT+5:30,Yamuna,36-45,Female,No,,,No,No,Daily,Yes,Yes,No,Yes,Curly,Daily,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,1
+2025/02/10 5:12:36 pm GMT+5:30,Dhuruv,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,Yes,No,Yes,No,Wavy,Twice a week,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 5:19:17 pm GMT+5:30,Vidhya,36-45,Female,No,,,No,No,Never,No,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/10 5:23:29 pm GMT+5:30,Rasika,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Coily,Every other day,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,1
+2025/02/10 5:23:40 pm GMT+5:30,Baby,26-35,Female,Yes,Male pattern baldness,Other,No,No,Rarely,No,No,No,No,Curly,Every other day,Yes,Yes,No,No,No,No,No,No,No,No,1
+2025/02/10 5:24:31 pm GMT+5:30,Ishariya,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,Yes,Yes,Yes,Wavy,Every other day,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/10 5:27:03 pm GMT+5:30,Hariniya,18-25,Female,No,,,No,No,Few times a week,No,Yes,Yes,No,Straight,Daily,No,Yes,No,No,No,No,Yes,No,No,No,0
+2025/02/10 5:27:13 pm GMT+5:30,Varshan,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,Yes,Straight,Every other day,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/10 5:28:12 pm GMT+5:30,Rakshu,18-25,Female,No,,,No,No,Daily,Yes,Yes,No,Yes,Wavy,Every other day,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 5:28:58 pm GMT+5:30,Banu,26-35,Female,Yes,Female pattern baldness,Asian,No,Yes,Few times a week,No,No,No,Yes,Wavy,Every other day,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,0
+2025/02/10 5:29:41 pm GMT+5:30,Ruby,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,Yes,No,Straight,Every other day,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,0
+2025/02/10 5:30:16 pm GMT+5:30,Uma,26-35,Female,Yes,Male pattern baldness,Other,No,No,Few times a week,Yes,Yes,Yes,No,Straight,Twice a week,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,1
+2025/02/10 5:30:49 pm GMT+5:30,Haripriya,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,Yes,Wavy,Once a week,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/10 5:32:50 pm GMT+5:30,Banupriya,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,Yes,No,No,Straight,Daily,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,0
+2025/02/10 5:34:03 pm GMT+5:30,Jersha,26-35,Female,No,,,No,No,Daily,No,Yes,Yes,No,Straight,Twice a week,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,1
+2025/02/10 5:35:09 pm GMT+5:30,Thuruvan,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,No,No,Straight,Twice a week,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/10 5:50:41 pm GMT+5:30,Jayasree,36-45,Female,Yes,Female pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/10 5:52:48 pm GMT+5:30,Jai,26-35,Male,No,,,No,Yes,Never,No,Yes,No,Yes,Curly,Twice a week,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,0
+2025/02/10 5:54:04 pm GMT+5:30,Jayprakash,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,Yes,Wavy,Once a week,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 5:55:15 pm GMT+5:30,Sarasu,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Curly,Every other day,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,1
+2025/02/10 5:57:31 pm GMT+5:30,Harshitha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Curly,Daily,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,0
+2025/02/10 5:59:11 pm GMT+5:30,Fathima,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,No,Curly,Every other day,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,1
+2025/02/10 6:00:11 pm GMT+5:30,Gunapriya,26-35,Female,No,,,No,No,Few times a week,Yes,No,No,No,Curly,Every other day,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,0
+2025/02/10 6:00:57 pm GMT+5:30,Gunahsounder,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,Yes,Yes,Wavy,Every other day,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,0
+2025/02/10 6:02:05 pm GMT+5:30,Prabaharan,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,No,No,Wavy,Every other day,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,0
+2025/02/10 6:03:18 pm GMT+5:30,Bhuvanraj,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,No,No,Yes,Wavy,Every other day,Yes,No,Yes,No,No,No,Yes,No,Yes,No,0
+2025/02/10 6:04:20 pm GMT+5:30,Oviya,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,0
+2025/02/10 6:20:04 pm GMT+5:30,Harini,46-60,Female,No,,,No,No,Rarely,No,Yes,Yes,No,Wavy,Daily,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/10 6:20:26 pm GMT+5:30,Janu,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,Yes,No,Yes,Wavy,Twice a week,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,1
+2025/02/10 6:21:29 pm GMT+5:30,Hanshika,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Straight,Every other day,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,1
+2025/02/10 6:21:41 pm GMT+5:30,Rakshan,26-35,Female,Yes,Female pattern baldness,Asian,No,Yes,Rarely,No,Yes,Yes,No,Curly,Every other day,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,0
+2025/02/10 6:22:28 pm GMT+5:30,Balu,36-45,Male,No,,,Yes,Yes,Never,Yes,No,Yes,Yes,Curly,Daily,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/10 6:22:53 pm GMT+5:30,Harini,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,No,Yes,Curly,Twice a week,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,1
+2025/02/10 6:23:51 pm GMT+5:30,Harinisri,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,No,No,No,Straight,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1
+2025/02/10 6:24:06 pm GMT+5:30,Sona,36-45,Female,No,,,No,No,Few times a week,No,Yes,Yes,Yes,Curly,Twice a week,No,No,No,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/10 6:24:17 pm GMT+5:30,Babu,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Straight,Twice a week,No,Yes,No,Yes,No,No,No,No,No,Yes,1
+2025/02/10 6:25:15 pm GMT+5:30,Elakiya,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Wavy,Every other day,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,0
+2025/02/10 6:25:32 pm GMT+5:30,Dhara,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,No,Yes,Curly,Twice a week,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,0
+2025/02/10 6:26:02 pm GMT+5:30,Saravanan,46-60,Male,Yes,Male pattern baldness,Asian,No,No,Daily,No,No,Yes,Yes,Curly,Daily,No,Yes,No,Yes,No,No,No,No,No,Yes,0
+2025/02/10 6:26:15 pm GMT+5:30,S.Swathi,18-25,Female,Yes,Male pattern baldness,Other,No,No,Rarely,No,No,No,Yes,Straight,Twice a week,No,Yes,No,Yes,No,Yes,No,No,No,No,0
+2025/02/10 6:26:29 pm GMT+5:30,Yashini,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,Yes,No,Wavy,Every other day,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/10 6:26:44 pm GMT+5:30,Yalini,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,Yes,Yes,Curly,Every other day,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 6:27:46 pm GMT+5:30,Eash,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,0
+2025/02/10 6:27:50 pm GMT+5:30,Kathija,36-45,Female,No,,,No,No,Daily,Yes,Yes,Yes,Yes,Curly,Daily,No,Yes,No,Yes,No,No,No,No,No,Yes,1
+2025/02/10 6:27:52 pm GMT+5:30,Eswar,36-45,Male,No,,,No,No,Few times a week,No,No,Yes,Yes,Straight,Every other day,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,1
+2025/02/10 6:28:59 pm GMT+5:30,Sabina,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,No,Yes,Curly,Twice a week,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,0
+2025/02/10 6:29:35 pm GMT+5:30,Logu,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,No,No,Yes,Wavy,Every other day,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,0
+2025/02/10 6:29:49 pm GMT+5:30,Ambikai,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,Yes,No,Curly,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1
+2025/02/10 6:31:13 pm GMT+5:30,Swesthi,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,Yes,No,Wavy,Every other day,No,Yes,No,No,Yes,No,Yes,No,Yes,No,1
+2025/02/10 6:31:43 pm GMT+5:30,Sweathik,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,Yes,Wavy,Daily,No,No,No,Yes,Yes,No,No,No,Yes,No,0
+2025/02/10 6:32:21 pm GMT+5:30,Abikai,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,Yes,No,Yes,No,Wavy,Daily,No,No,No,Yes,No,No,No,No,Yes,Yes,1
+2025/02/10 6:32:23 pm GMT+5:30,Prabhahara,26-35,Male,No,,,No,No,Daily,No,Yes,Yes,Yes,Wavy,Twice a week,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,0
+2025/02/10 6:32:31 pm GMT+5:30,Suhanguna,36-45,Male,Yes,Female pattern baldness,Asian,No,Yes,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,1
+2025/02/10 6:33:48 pm GMT+5:30,Isha,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Wavy,Twice a week,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,1
+2025/02/10 6:34:09 pm GMT+5:30,Sree,46-60,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Curly,Daily,No,Yes,No,Yes,Yes,No,Yes,No,No,No,0
+2025/02/10 6:34:11 pm GMT+5:30,Thara,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Curly,Twice a week,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,1
+2025/02/10 6:34:55 pm GMT+5:30,Lara,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,Yes,No,Wavy,Twice a week,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,1
+2025/02/10 6:35:19 pm GMT+5:30,Balamurugan,46-60,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,No,No,No,Wavy,Daily,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,0
+2025/02/10 6:35:28 pm GMT+5:30,Shalini,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,Yes,Yes,Curly,Every other day,No,No,Yes,No,Yes,No,No,Yes,Yes,No,0
+2025/02/10 6:36:25 pm GMT+5:30,Oviyasri,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Curly,Twice a week,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,0
+2025/02/10 6:36:40 pm GMT+5:30,Samutha,26-35,Female,No,,,No,No,Daily,No,Yes,No,Yes,Wavy,Every other day,No,Yes,No,Yes,Yes,No,No,No,Yes,No,0
+2025/02/10 6:36:52 pm GMT+5:30,Kanisha,18-25,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,Yes,No,Wavy,Every other day,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,1
+2025/02/10 6:37:21 pm GMT+5:30,Mathialagan,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,Yes,No,Wavy,Twice a week,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,0
+2025/02/10 6:37:58 pm GMT+5:30,Mathiyal,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,No,No,Yes,Straight,Twice a week,No,No,Yes,No,Yes,No,No,Yes,No,Yes,1
+2025/02/10 6:38:06 pm GMT+5:30,Thariga,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Wavy,Daily,No,No,Yes,No,No,Yes,Yes,Yes,No,No,1
+2025/02/10 6:38:14 pm GMT+5:30,Siddarth,18-25,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Wavy,Twice a week,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,1
+2025/02/10 6:38:55 pm GMT+5:30,Priyadharshini,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,No,Yes,Curly,Twice a week,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,1
+2025/02/10 6:39:36 pm GMT+5:30,Jenipher,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,Yes,No,Curly,Twice a week,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,1
+2025/02/10 6:39:40 pm GMT+5:30,Akarshan,18-25,Male,Yes,Female pattern baldness,Asian,Yes,No,Rarely,Yes,No,Yes,No,Coily,Every other day,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,1
+2025/02/10 6:40:22 pm GMT+5:30,Abigaile,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,Yes,Curly,Twice a week,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,1
+2025/02/10 6:40:54 pm GMT+5:30,Mosila,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Curly,Twice a week,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,1
+2025/02/10 6:41:04 pm GMT+5:30,Moresh,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Straight,Daily,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,1
+2025/02/10 6:41:07 pm GMT+5:30,Dhesha,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Wavy,Daily,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,1
+2025/02/10 6:41:47 pm GMT+5:30,Reshmika,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Curly,Twice a week,Yes,No,Yes,No,No,Yes,No,Yes,No,No,1
+2025/02/10 6:41:55 pm GMT+5:30,Amridhavarshini,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,No,Wavy,Every other day,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,1
+2025/02/10 6:42:18 pm GMT+5:30,Galan,18-25,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,No,Curly,Every other day,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,1
+2025/02/10 6:42:44 pm GMT+5:30,Viveka,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,Yes,No,Curly,Twice a week,No,Yes,No,No,No,Yes,No,Yes,No,No,1
+2025/02/10 6:43:18 pm GMT+5:30,Sachin,26-35,Male,Yes,Female pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,No,No,Coily,Twice a week,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,1
+2025/02/10 6:43:47 pm GMT+5:30,Antony,36-45,Male,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,Yes,No,Wavy,Every other day,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,1
+2025/02/10 6:43:53 pm GMT+5:30,Sheetha,26-35,Female,No,,,No,No,Rarely,Yes,No,Yes,Yes,Curly,Every other day,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,1
+2025/02/10 6:45:38 pm GMT+5:30,Poojahechtage,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,No,No,No,Yes,Straight,Every other day,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/10 6:46:35 pm GMT+5:30,Kamal,26-35,Male,No,,,No,Yes,Rarely,Yes,Yes,No,No,Wavy,Every other day,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,1
+2025/02/10 6:46:52 pm GMT+5:30,Cinthiya,26-35,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Straight,Daily,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,1
+2025/02/10 6:47:54 pm GMT+5:30,Parkavi,36-45,Female,No,,,No,Yes,Few times a week,Yes,Yes,No,Yes,Wavy,Every other day,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 6:48:31 pm GMT+5:30,Skathipriya,46-60,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,Yes,Yes,No,Yes,Wavy,Once a week,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,1
+2025/02/10 6:48:50 pm GMT+5:30,Rohit,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,No,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,1
+2025/02/10 6:49:40 pm GMT+5:30,Velumani,46-60,Male,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,No,No,Wavy,Daily,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,1
+2025/02/10 6:51:11 pm GMT+5:30,Lewin,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,1
+2025/02/10 6:53:41 pm GMT+5:30,Anto,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 6:54:45 pm GMT+5:30,Sita. MAha Lakshmi ,18-25,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,No,No,No,Yes,Coily,Twice a week,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/02/10 6:54:49 pm GMT+5:30,Dhanya,26-35,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,No,Yes,Yes,Curly,Daily,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 6:55:34 pm GMT+5:30,Thivn,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,1
+2025/02/10 6:56:05 pm GMT+5:30,Vasu,26-35,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,No,Yes,Yes,Yes,Curly,Daily,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,1
+2025/02/10 6:57:02 pm GMT+5:30,Sharshith,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,Yes,No,Curly,Twice a week,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 6:57:52 pm GMT+5:30,Kokila,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,Yes,No,No,Straight,Every other day,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,1
+2025/02/10 6:58:28 pm GMT+5:30,Mohamad  akeel,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,Yes,Yes,Yes,Coily,Twice a week,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 6:59:01 pm GMT+5:30,Kavitha,36-45,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,1
+2025/02/10 6:59:14 pm GMT+5:30,Pravin,36-45,Male,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,Yes,No,Wavy,Daily,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 6:59:42 pm GMT+5:30,Galen,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Coily,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:00:31 pm GMT+5:30,Elamugil,26-35,Male,Yes,Female pattern baldness,Asian,No,Yes,Few times a week,No,Yes,Yes,No,Curly,Every other day,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,1
+2025/02/10 7:00:36 pm GMT+5:30,Ganesh,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Never,No,Yes,Yes,Yes,Curly,Twice a week,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,1
+2025/02/10 7:01:17 pm GMT+5:30,Gabriel. Shathrak,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/02/10 7:01:18 pm GMT+5:30,Regan,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,Yes,No,No,Curly,Twice a week,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/10 7:01:53 pm GMT+5:30,BraBu,36-45,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,Yes,Straight,Daily,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:02:10 pm GMT+5:30,Dharshan,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,Yes,Yes,No,Curly,Once a week,No,Yes,No,No,Yes,Yes,No,No,Yes,No,1
+2025/02/10 7:02:41 pm GMT+5:30,Shailuputhuri,18-25,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:02:44 pm GMT+5:30,Vishu,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Wavy,Daily,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,1
+2025/02/10 7:02:50 pm GMT+5:30,Murugesh,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,Yes,Yes,No,No,Wavy,Every other day,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,1
+2025/02/10 7:03:47 pm GMT+5:30,Sita raman,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:03:57 pm GMT+5:30,Charlin,36-45,Male,No,,,No,No,Rarely,No,No,Yes,Yes,Wavy,Every other day,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,1
+2025/02/10 7:04:51 pm GMT+5:30,Murugan ,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,No,Yes,No,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:05:03 pm GMT+5:30,Thrisha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,Yes,Wavy,Every other day,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,1
+2025/02/10 7:05:41 pm GMT+5:30,Urmila,18-25,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/10 7:05:48 pm GMT+5:30,Viji,26-35,Female,Yes,Male pattern baldness,Asian,Yes,No,Rarely,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,1
+2025/02/10 7:07:26 pm GMT+5:30,Sgivan,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:07:53 pm GMT+5:30,Jegan,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,No,Curly,Every other day,No,Yes,Yes,Yes,No,No,Yes,No,No,No,1
+2025/02/10 7:08:27 pm GMT+5:30,Ronald,36-45,Male,Yes,Female pattern baldness,Asian,No,Yes,Rarely,No,Yes,Yes,No,Straight,Twice a week,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,1
+2025/02/10 7:09:10 pm GMT+5:30,Thulasi,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,No,No,Yes,Wavy,Every other day,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,1
+2025/02/10 7:09:22 pm GMT+5:30,Roine,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/10 7:09:44 pm GMT+5:30,Prebha,36-45,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Few times a week,No,No,Yes,No,Curly,Twice a week,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,1
+2025/02/10 7:09:47 pm GMT+5:30,Vinitha,36-45,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Wavy,Every other day,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:11:21 pm GMT+5:30,Ragulram,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:11:46 pm GMT+5:30,Mona,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,Yes,No,Straight,Every other day,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,1
+2025/02/10 7:11:51 pm GMT+5:30,Kani,26-35,Female,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,No,Yes,Yes,Yes,Curly,Twice a week,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,1
+2025/02/10 7:12:15 pm GMT+5:30,Ramie,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:12:16 pm GMT+5:30,Raguram,18-25,Male,No,,,Yes,Yes,Rarely,No,Yes,Yes,Yes,Wavy,Every other day,Yes,No,No,No,No,No,Yes,No,Yes,No,1
+2025/02/10 7:13:59 pm GMT+5:30,Divyasri,18-25,Female,Yes,Female pattern baldness,Asian,Yes,No,Rarely,No,Yes,Yes,No,Curly,Once a week,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,1
+2025/02/10 7:14:08 pm GMT+5:30,Siva,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,No,Straight,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:14:30 pm GMT+5:30,Eswari,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,Yes,Yes,Wavy,Twice a week,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:15:19 pm GMT+5:30,Vaishu,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,Yes,Yes,Wavy,Daily,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,1
+2025/02/10 7:15:23 pm GMT+5:30,Velu,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:16:06 pm GMT+5:30,Varshasri,18-25,Female,Yes,Female pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,Yes,No,Straight,Every other day,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,1
+2025/02/10 7:16:25 pm GMT+5:30,Varun,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,Yes,Curly,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,1
+2025/02/10 7:18:03 pm GMT+5:30,Balachandaran,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,No,No,Wavy,Twice a week,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:18:33 pm GMT+5:30,Selvan,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Curly,Twice a week,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,1
+2025/02/10 7:18:43 pm GMT+5:30,Selvi,36-45,Female,No,,,Yes,No,Rarely,No,No,No,No,Curly,Twice a week,Yes,No,Yes,Yes,No,No,Yes,No,No,No,1
+2025/02/10 7:19:20 pm GMT+5:30,VELUSAMY ,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:20:19 pm GMT+5:30,Murali,36-45,Male,No,,,Yes,Yes,Rarely,Yes,Yes,No,Yes,Curly,Every other day,No,No,Yes,No,No,Yes,Yes,No,Yes,No,1
+2025/02/10 7:22:01 pm GMT+5:30,Ester,46-60,Female,Yes,Male pattern baldness,Asian,Yes,No,Rarely,No,Yes,Yes,Yes,Curly,Twice a week,No,No,Yes,Yes,No,No,No,Yes,No,No,1
+2025/02/10 7:22:03 pm GMT+5:30,Ravisekar,26-35,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,Yes,Curly,Daily,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:23:14 pm GMT+5:30,Abish,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,1
+2025/02/10 7:23:28 pm GMT+5:30,Phawan,36-45,Male,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:24:31 pm GMT+5:30,Pawal,Above 60,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,Yes,No,Yes,Yes,Wavy,Twice a week,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,1
+2025/02/10 7:24:59 pm GMT+5:30,Pramila,36-45,Female,No,,,Yes,Yes,Never,Yes,Yes,No,No,Curly,Twice a week,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:25:00 pm GMT+5:30,Ravunthar,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,Yes,Curly,Every other day,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:26:15 pm GMT+5:30,Nithya,36-45,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,1
+2025/02/10 7:27:18 pm GMT+5:30,Vigneshwari,46-60,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,Yes,Curly,Every other day,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,1
+2025/02/10 7:27:21 pm GMT+5:30,Vicky,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Never,Yes,Yes,No,Yes,Curly,Twice a week,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/10 7:27:35 pm GMT+5:30,Vishal,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:28:12 pm GMT+5:30,Vicky,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:28:31 pm GMT+5:30,Meghala,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,No,Straight,Every other day,Yes,No,No,No,Yes,Yes,No,No,Yes,No,1
+2025/02/10 7:29:34 pm GMT+5:30,Megha,36-45,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,No,Yes,No,Curly,Every other day,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:29:41 pm GMT+5:30,Mektha,18-25,Female,Yes,Female pattern baldness,Asian,Yes,No,Rarely,No,No,No,No,Coily,Once a week,Yes,Yes,No,No,No,No,No,No,Yes,No,1
+2025/02/10 7:31:56 pm GMT+5:30,Sharmila,26-35,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,Yes,No,Curly,Every other day,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,1
+2025/02/10 7:31:57 pm GMT+5:30,Vetha,36-45,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,Yes,No,Curly,Twice a week,Yes,Yes,Yes,No,No,No,Yes,No,No,No,1
+2025/02/10 7:31:59 pm GMT+5:30,Bhanumathi,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,No,Yes,No,Straight,Daily,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:33:27 pm GMT+5:30,Kayathri,26-35,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,No,Curly,Twice a week,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:34:37 pm GMT+5:30,Kanigha,26-35,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,No,Straight,Every other day,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,1
+2025/02/10 7:35:36 pm GMT+5:30,Sara,18-25,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,No,Curly,Every other day,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,1
+2025/02/10 7:36:30 pm GMT+5:30,Nagul,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,No,No,Yes,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,1
+2025/02/10 7:36:33 pm GMT+5:30,Nimel,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,Yes,Yes,Curly,Every other day,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:36:39 pm GMT+5:30,Gisa,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Wavy,Every other day,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,1
+2025/02/10 7:37:15 pm GMT+5:30,Sridevi N,36-45,Female,Yes,Female pattern baldness,Other,No,No,Few times a week,Yes,Yes,Yes,Yes,Straight,Twice a week,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,1
+2025/02/10 7:39:15 pm GMT+5:30,Susi,18-25,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,1
+2025/02/10 7:41:48 pm GMT+5:30,Manish,18-25,Female,Yes,Female pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 7:42:41 pm GMT+5:30,Deepsi,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,No,No,Curly,Every other day,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/10 7:43:46 pm GMT+5:30,Vishnupriya,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,0
+2025/02/10 7:45:17 pm GMT+5:30,Asma Sharif,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,Yes,Straight,Daily,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 7:46:49 pm GMT+5:30,Jai Ritesh,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,Yes,Straight,Daily,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/10 7:48:23 pm GMT+5:30,Sree Darshan,18-25,Male,No,,,Yes,No,Daily,Yes,No,No,No,Straight,Daily,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/10 7:49:51 pm GMT+5:30,Navdeep,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,No,No,Straight,Daily,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,1
+2025/02/10 7:51:04 pm GMT+5:30,Navanish,46-60,Male,No,,,No,Yes,Rarely,Yes,No,No,Yes,Wavy,Every other day,No,No,Yes,No,No,Yes,No,Yes,Yes,No,0
+2025/02/10 8:19:55 pm GMT+5:30,Ganesh,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,1
+2025/02/10 8:21:31 pm GMT+5:30,Bimbisara,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,No,Straight,Daily,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/10 8:23:35 pm GMT+5:30,Sarada,18-25,Female,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,No,No,No,No,Yes,Yes,No,No,1
+2025/02/10 8:26:07 pm GMT+5:30,Baniel,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,1
+2025/02/10 8:30:10 pm GMT+5:30,Tenali Raman,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,No,Yes,No,Yes,No,No,No,1
+2025/02/10 8:55:58 pm GMT+5:30,Dhanvantari,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 8:59:06 pm GMT+5:30,Saraswati,46-60,Female,Yes,Female pattern baldness,Asian,No,Yes,Daily,No,No,Yes,No,Straight,Daily,No,No,Yes,Yes,No,Yes,Yes,No,No,No,1
+2025/02/10 9:01:14 pm GMT+5:30,Rajarajeshwari,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Daily,No,No,Yes,No,Straight,Daily,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,1
+2025/02/10 9:03:49 pm GMT+5:30,Kashin,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,1
+2025/02/10 9:30:38 pm GMT+5:30,Krishna,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,No,No,No,Straight,Daily,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,1
+2025/02/10 9:31:30 pm GMT+5:30,Vishal,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,Yes,No,Coily,Twice a week,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,0
+2025/02/10 9:33:04 pm GMT+5:30,Rama,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,1
+2025/02/10 9:39:12 pm GMT+5:30,Girchand,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,No,No,Yes,Straight,Daily,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,1
+2025/02/10 9:41:09 pm GMT+5:30,Melvin,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,Yes,No,Yes,Straight,Daily,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,1
+2025/02/10 9:43:24 pm GMT+5:30,Santosh,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Daily,No,Yes,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 9:45:05 pm GMT+5:30,Anirudh,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 9:46:54 pm GMT+5:30,Raghuvan,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 9:51:53 pm GMT+5:30,Shukeshwar,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 9:54:04 pm GMT+5:30,Dattatrey,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 9:56:57 pm GMT+5:30,Service,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/10 9:59:55 pm GMT+5:30,Rajini,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,No,Yes,No,No,No,No,No,No,Yes,Yes,1
+2025/02/10 10:01:47 pm GMT+5:30,Vijay,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,1
+2025/02/10 10:03:54 pm GMT+5:30,Vijayakanth,26-35,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,No,No,Yes,Yes,Straight,Daily,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 10:05:37 pm GMT+5:30,Ajith,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,No,Straight,Daily,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/10 10:08:48 pm GMT+5:30,Aadhiran,18-25,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,Yes,No,Yes,Yes,Straight,Daily,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,1
+2025/02/10 10:17:56 pm GMT+5:30,Vijay shanthi.M ,26-35,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/10 10:23:01 pm GMT+5:30,Harsha,26-35,Female,Yes,Male pattern baldness,Asian,No,No,Daily,Yes,No,Yes,Yes,Wavy,Daily,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,0
+2025/02/10 10:24:41 pm GMT+5:30,Beulah,18-25,Female,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,Yes,Yes,Wavy,Every other day,Yes,Yes,No,No,Yes,No,No,No,No,No,0
+2025/02/10 10:26:01 pm GMT+5:30,Monisha,18-25,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,Yes,Yes,Yes,Yes,Curly,Twice a week,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,0
+2025/02/10 10:28:31 pm GMT+5:30,Gabberiel,36-45,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,No,Wavy,Twice a week,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,0
+2025/02/10 10:30:39 pm GMT+5:30,Ravina,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Few times a week,No,No,No,No,Wavy,Twice a week,Yes,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/10 10:30:39 pm GMT+5:30,Kavisri,26-35,Female,No,,,Yes,No,Rarely,No,No,Yes,Yes,Curly,Twice a week,No,No,No,No,No,No,Yes,No,Yes,Yes,0
+2025/02/10 10:34:17 pm GMT+5:30,Karina,18-25,Female,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,Yes,Yes,Wavy,Twice a week,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,0
+2025/02/10 10:34:17 pm GMT+5:30,Kapoor,36-45,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,Yes,Curly,Every other day,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/02/10 10:36:44 pm GMT+5:30,Karishma,26-35,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Never,No,Yes,No,No,Curly,Every other day,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,1
+2025/02/10 10:36:57 pm GMT+5:30,Devid,46-60,Female,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,Yes,No,Yes,Curly,Twice a week,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,0
+2025/02/10 10:39:01 pm GMT+5:30,Lavitha,36-45,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,No,No,Yes,No,Curly,Daily,No,No,No,No,No,Yes,No,Yes,No,Yes,0
+2025/02/10 10:39:02 pm GMT+5:30,Ruba,36-45,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,No,No,Yes,No,Curly,Every other day,Yes,Yes,No,No,No,Yes,No,No,No,No,0
+2025/02/10 10:42:04 pm GMT+5:30,Rejina,46-60,Female,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,Yes,Yes,Wavy,Twice a week,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,0
+2025/02/10 10:42:05 pm GMT+5:30,Fagumitha,46-60,Female,Yes,Female pattern baldness,Caucasian,No,Yes,Few times a week,Yes,Yes,Yes,Yes,Curly,Twice a week,Yes,Yes,No,No,Yes,No,No,No,Yes,No,0
+2025/02/10 10:44:55 pm GMT+5:30,Madumitha,26-35,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,No,Yes,No,Wavy,Every other day,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,0
+2025/02/10 10:45:04 pm GMT+5:30,Nimmee,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,No,No,Yes,No,Wavy,Every other day,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,0
+2025/02/10 10:48:22 pm GMT+5:30,Yamina,18-25,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Never,Yes,Yes,No,No,Curly,Twice a week,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,0
+2025/02/10 10:48:24 pm GMT+5:30,Sharnmi,26-35,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,Yes,No,Curly,Twice a week,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,0
+2025/02/10 10:50:42 pm GMT+5:30,Aswatha,26-35,Female,Yes,Male pattern baldness,Asian,Yes,No,Rarely,Yes,Yes,Yes,Yes,Wavy,Twice a week,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,0
+2025/02/10 10:50:42 pm GMT+5:30,Mayuran,18-25,Female,Yes,Female pattern baldness,Asian,Yes,No,Never,Yes,Yes,Yes,Yes,Curly,Every other day,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,1
+2025/02/10 10:53:18 pm GMT+5:30,Harnisha,36-45,Female,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,Yes,Yes,Curly,Daily,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,0
+2025/02/10 10:53:18 pm GMT+5:30,Mirthula,36-45,Female,Yes,Female pattern baldness,Asian,Yes,Yes,Never,Yes,Yes,Yes,Yes,Curly,Twice a week,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,1
+2025/02/10 10:55:36 pm GMT+5:30,Mahilini,36-45,Female,No,,,No,No,Rarely,Yes,No,No,Yes,Curly,Twice a week,Yes,No,No,No,Yes,Yes,No,No,Yes,No,1
+2025/02/10 10:56:51 pm GMT+5:30,Pravinesh,26-35,Male,Yes,Female pattern baldness,Asian,Yes,No,Rarely,Yes,Yes,No,No,Wavy,Twice a week,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,1
+2025/02/10 10:58:24 pm GMT+5:30,Faritha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,Yes,No,Yes,Wavy,Twice a week,No,Yes,No,Yes,Yes,No,No,Yes,No,No,0
+2025/02/10 10:59:44 pm GMT+5:30,Rabiyabeham,46-60,Female,Yes,Male pattern baldness,Asian,No,Yes,Daily,Yes,Yes,No,Yes,Straight,Twice a week,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,0
+2025/02/10 11:01:14 pm GMT+5:30,Shamili,26-35,Female,No,,,No,No,Rarely,Yes,Yes,No,No,Curly,Once a week,Yes,No,No,Yes,Yes,No,No,No,No,Yes,0
+2025/02/10 11:02:24 pm GMT+5:30,Yalini,26-35,Female,No,,,No,No,Few times a week,Yes,No,No,Yes,Wavy,Twice a week,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,0
+2025/02/10 11:03:23 pm GMT+5:30,Sathana,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,No,Yes,No,Curly,Once a week,No,Yes,No,No,No,No,Yes,No,Yes,Yes,0
+2025/02/10 11:04:28 pm GMT+5:30,Nivethitha,46-60,Female,No,,,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,Yes,No,0
+2025/02/10 11:05:34 pm GMT+5:30,Mohamadh,36-45,Male,No,,,No,No,Rarely,Yes,No,Yes,No,Curly,Twice a week,No,No,Yes,No,No,Yes,Yes,No,No,Yes,0
+2025/02/10 11:06:35 pm GMT+5:30,Kamalesh,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,No,No,Yes,No,Curly,Twice a week,No,No,Yes,No,No,Yes,Yes,No,No,No,0
+2025/02/10 11:07:37 pm GMT+5:30,Ranjith,46-60,Male,Yes,Female pattern baldness,Asian,No,Yes,Rarely,No,No,Yes,Yes,Curly,Twice a week,Yes,No,No,No,Yes,Yes,No,No,No,Yes,0
+2025/02/10 11:08:40 pm GMT+5:30,Kamini,46-60,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,Yes,Yes,1
+2025/02/10 11:09:52 pm GMT+5:30,Magimastee,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/10 11:23:42 pm GMT+5:30,Narmatha,Above 60,Female,No,,,No,No,Never,No,No,No,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/10 11:24:41 pm GMT+5:30,Usharani,46-60,Female,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/10 11:25:58 pm GMT+5:30,Niranjan,36-45,Male,No,,,No,No,Never,No,No,No,No,Straight,Daily,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/10 11:27:15 pm GMT+5:30,Vallarasu,36-45,Male,No,,,Yes,Yes,Never,No,No,No,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,Yes,0
+2025/02/10 11:28:22 pm GMT+5:30,Dhamidhren,46-60,Male,No,,,No,No,Rarely,No,No,No,No,Wavy,Daily,No,Yes,No,Yes,No,No,No,No,No,No,1
+2025/02/10 11:30:53 pm GMT+5:30,Charulatha,36-45,Female,No,,,No,No,Never,No,No,Yes,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/10 11:32:21 pm GMT+5:30,Jeba,46-60,Male,No,,,Yes,Yes,Rarely,Yes,Yes,No,No,Straight,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/10 11:34:02 pm GMT+5:30,Nanthan,46-60,Male,No,,,No,No,Few times a week,No,Yes,Yes,No,Curly,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/10 11:35:24 pm GMT+5:30,Roselin,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Coily,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/10 11:37:02 pm GMT+5:30,Yashmin,36-45,Female,Yes,Male pattern baldness,Asian,Yes,No,Rarely,Yes,Yes,No,No,Straight,Once a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/10 11:39:03 pm GMT+5:30,Mohini,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Once a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/10 11:40:24 pm GMT+5:30,Lalaiyarasi,46-60,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/10 11:41:50 pm GMT+5:30,Geetha,36-45,Female,No,,,No,No,Never,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/10 11:43:19 pm GMT+5:30,Veget,46-60,Male,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/10 11:45:08 pm GMT+5:30,Jahirusen,36-45,Male,No,,,No,No,Never,No,No,No,No,Wavy,Daily,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/11 12:18:49 am GMT+5:30,Kavipriya,36-45,Female,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/11 12:23:29 am GMT+5:30,SaiLakshmi,18-25,Female,No,,,No,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/11 12:24:57 am GMT+5:30,Karthik sai,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/11 4:24:42 am GMT+5:30,Kodiswari,46-60,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/11 4:25:57 am GMT+5:30,Shofiya,36-45,Female,No,,,No,No,Never,No,No,Yes,No,Straight,Twice a week,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/11 4:27:24 am GMT+5:30,Magimasree,26-35,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/11 4:28:44 am GMT+5:30,Sangeeth,36-45,Male,No,,,No,No,Rarely,Yes,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/11 4:30:15 am GMT+5:30,Ruba,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,Yes,No,No,Yes,No,1
+2025/02/11 4:31:40 am GMT+5:30,Kanmani,36-45,Female,No,,,No,No,Rarely,No,No,No,Yes,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/11 5:03:20 am GMT+5:30,Nambu,36-45,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/11 5:04:50 am GMT+5:30,Arunima,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/11 5:05:57 am GMT+5:30,John,36-45,Male,No,,,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,Yes,No,No,No,Yes,0
+2025/02/11 5:07:36 am GMT+5:30,Shamu ,46-60,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,No,Curly,Twice a week,Yes,No,No,Yes,No,No,No,Yes,Yes,No,1
+2025/02/11 5:09:54 am GMT+5:30,Chugrivu,36-45,Male,No,,,No,No,Never,No,No,No,No,Curly,Daily,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/11 5:40:42 am GMT+5:30,Hemapriya,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/11 5:42:06 am GMT+5:30,Poorani,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,Yes,1
+2025/02/11 5:43:56 am GMT+5:30,Ramachandran,36-45,Male,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/11 9:00:44 am GMT+5:30,Deepishka,18-25,Female,No,,,No,No,Few times a week,Yes,No,No,Yes,Curly,Daily,Yes,No,Yes,No,Yes,No,No,Yes,No,No,0
+2025/02/11 9:01:33 am GMT+5:30,Dharsith,36-45,Male,No,,,No,Yes,Few times a week,No,Yes,Yes,Yes,Curly,Daily,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/11 3:19:11 pm GMT+5:30,Subha,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,Yes,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/11 3:20:19 pm GMT+5:30,Sreenithi,36-45,Female,No,,,No,No,Rarely,Yes,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/11 3:21:18 pm GMT+5:30,Naresh,26-35,Male,No,,,Yes,Yes,Rarely,No,No,No,No,Straight,Daily,No,No,No,No,No,No,No,No,No,No,0
+2025/02/11 3:22:20 pm GMT+5:30,Dhardhini,26-35,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/12 7:46:09 am GMT+5:30,Ruthika,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/12 7:47:36 am GMT+5:30,Vevegha G,18-25,Female,No,,,No,No,Few times a week,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/12 7:49:01 am GMT+5:30,Sai saran,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/12 7:50:29 am GMT+5:30,Mukesh,18-25,Female,No,,,No,No,Never,No,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/12 7:53:38 am GMT+5:30,Gomathi,36-45,Female,No,,,No,No,Never,Yes,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/12 7:55:08 am GMT+5:30,Kavin kumar,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/13 12:29:40 pm GMT+5:30,Reena,36-45,Female,No,,,No,No,Rarely,Yes,No,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/13 12:30:46 pm GMT+5:30,Keerthi,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:31:55 pm GMT+5:30,Dhanusri,18-25,Female,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/13 12:32:59 pm GMT+5:30,Kavyasri,36-45,Female,No,,,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/13 12:34:16 pm GMT+5:30,Midhun,18-25,Male,Yes,Female pattern baldness,Asian,Yes,No,Never,No,No,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:35:35 pm GMT+5:30,Saivel,26-35,Male,Yes,Male pattern baldness,Asian,Yes,No,Rarely,Yes,No,No,No,Straight,Daily,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:36:45 pm GMT+5:30,Nirmal,46-60,Male,No,,,Yes,Yes,Never,Yes,No,No,No,Curly,Daily,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/13 12:37:51 pm GMT+5:30,Meenu,36-45,Female,Yes,Female pattern baldness,Asian,Yes,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:38:55 pm GMT+5:30,Venisri,26-35,Female,No,,,No,No,Never,No,No,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:40:19 pm GMT+5:30,Karthikumar,46-60,Male,No,,,Yes,Yes,Never,Yes,Yes,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:42:06 pm GMT+5:30,Rosun,36-45,Male,Yes,Female pattern baldness,Asian,Yes,No,Never,Yes,Yes,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:44:23 pm GMT+5:30,Arasu,46-60,Male,No,,,Yes,Yes,Never,No,Yes,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 12:45:40 pm GMT+5:30,Aruna,46-60,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Never,Yes,No,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 6:06:46 pm GMT+5:30,Arul,46-60,Male,No,,,Yes,Yes,Never,Yes,Yes,No,No,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/13 6:07:51 pm GMT+5:30,Prema,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,Yes,No,No,Straight,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/13 6:09:36 pm GMT+5:30,Harsha,36-45,Female,Yes,Male pattern baldness,Asian,No,No,Rarely,No,Yes,No,No,Straight,Daily,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,1
+2025/02/13 6:10:56 pm GMT+5:30,Madhu,46-60,Female,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,No,Wavy,Twice a week,No,Yes,Yes,No,Yes,No,Yes,No,No,No,1
+2025/02/13 7:04:10 pm GMT+5:30,Keerthi ,36-45,Female,No,,,No,No,Rarely,No,Yes,Yes,Yes,Wavy,Every other day,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/13 7:05:03 pm GMT+5:30,Gandhimathi,36-45,Female,Yes,Female pattern baldness,African,No,No,Few times a week,Yes,Yes,Yes,No,Wavy,Every other day,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/13 7:05:52 pm GMT+5:30,Kokiladevi,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,No,No,Yes,Yes,Wavy,Daily,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1
+2025/02/13 8:13:52 pm GMT+5:30,Kowsika gowri,36-45,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Daily,Yes,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/13 8:36:50 pm GMT+5:30,Sudha,26-35,Female,No,,,No,No,Daily,Yes,Yes,No,Yes,Curly,Every other day,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,1
+2025/02/13 8:40:39 pm GMT+5:30,Thulasimani,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,No,Yes,No,Wavy,Daily,Yes,No,Yes,No,Yes,Yes,No,No,No,No,1
+2025/02/13 8:58:57 pm GMT+5:30,Raj kumar,18-25,Male,No,,,No,No,Never,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/13 9:31:37 pm GMT+5:30,Hemalatha,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,No,Yes,Yes,No,No,No,Yes,1
+2025/02/13 9:33:00 pm GMT+5:30,Niranjana,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,Yes,No,Straight,Twice a week,No,No,Yes,No,No,No,No,No,No,Yes,1
+2025/02/13 9:34:45 pm GMT+5:30,Chandru,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,Yes,Yes,Yes,No,Wavy,Twice a week,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,1
+2025/02/13 9:36:05 pm GMT+5:30,Priyadharshan,36-45,Male,Yes,Female pattern baldness,Asian,Yes,Yes,Rarely,No,No,No,No,Curly,Twice a week,No,No,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/13 9:37:26 pm GMT+5:30,Vishnu,18-25,Male,No,,,No,No,Rarely,Yes,Yes,No,No,Wavy,Daily,No,Yes,No,No,No,No,Yes,No,No,No,1
+2025/02/13 9:39:10 pm GMT+5:30,Mohanapriya,46-60,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,No,Straight,Daily,Yes,No,No,Yes,No,No,No,No,No,No,1
+2025/02/13 9:40:37 pm GMT+5:30,Monesh,36-45,Male,No,,,No,No,Rarely,Yes,No,No,No,Curly,Daily,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,1
+2025/02/13 9:46:50 pm GMT+5:30,Johir,46-60,Male,No,,,No,No,Rarely,Yes,Yes,No,No,Straight,Daily,No,Yes,No,Yes,No,No,No,No,No,Yes,1
+2025/02/13 9:47:55 pm GMT+5:30,Saran,36-45,Female,No,,,No,No,Rarely,Yes,Yes,No,No,Straight,Twice a week,No,Yes,No,Yes,No,No,Yes,No,No,Yes,1
+2025/02/14 10:20:02 am GMT+5:30,Prithvi D,18-25,Male,No,,,No,No,Never,No,No,Yes,Yes,Straight,Twice a week,No,Yes,No,No,No,Yes,No,No,No,No,1
+2025/02/14 12:01:59 pm GMT+5:30,Chitra,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Curly,Daily,Yes,No,Yes,No,Yes,No,Yes,No,No,No,1
+2025/02/14 12:04:13 pm GMT+5:30,Myil,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,Yes,Curly,Daily,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,1
+2025/02/14 2:06:39 pm GMT+5:30,Dharani.s,18-25,Female,No,,,No,No,Never,No,No,No,Yes,Straight,Once a week,No,Yes,No,No,No,No,Yes,No,No,No,1
+2025/02/14 7:21:08 pm GMT+5:30,Alexander,36-45,Male,No,,,No,Yes,Few times a week,No,Yes,No,Yes,Wavy,Once a week,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,1
+2025/02/14 7:26:37 pm GMT+5:30,Alex,36-45,Male,No,,,Yes,Yes,Rarely,No,Yes,No,Yes,Curly,Daily,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/14 7:27:58 pm GMT+5:30,Ethan,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,Yes,Yes,No,Yes,Coily,Daily,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,1
+2025/02/14 7:30:02 pm GMT+5:30,Noah,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,No,Yes,Curly,Every other day,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,1
+2025/02/14 7:31:48 pm GMT+5:30,Gabriel,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,No,No,Yes,Curly,Daily,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,1
+2025/02/14 7:33:02 pm GMT+5:30,Sebastian,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,Yes,No,Straight,Twice a week,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,1
+2025/02/14 7:37:30 pm GMT+5:30,Isabella,18-25,Female,No,,,No,No,Rarely,Yes,No,No,Yes,Wavy,Twice a week,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,1
+2025/02/14 7:38:50 pm GMT+5:30,Sophia,18-25,Female,No,,,No,No,Daily,No,Yes,No,Yes,Wavy,Twice a week,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,1
+2025/02/14 7:40:21 pm GMT+5:30,Amelia,18-25,Female,No,,,No,No,Daily,No,Yes,No,Yes,Curly,Daily,No,No,No,No,Yes,Yes,No,Yes,No,Yes,1
+2025/02/14 7:50:50 pm GMT+5:30,Aarav V,18-25,Male,No,,,No,No,Rarely,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/14 7:53:22 pm GMT+5:30,Vihaan,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/14 7:54:38 pm GMT+5:30,Aarnya,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/14 7:55:51 pm GMT+5:30,Rohan singh,26-35,Male,No,,,No,No,Rarely,No,No,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:20:53 am GMT+5:30,Dhiya,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:24:27 am GMT+5:30,Karan,18-25,Male,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:26:02 am GMT+5:30,Nikhal,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:27:47 am GMT+5:30,Madhu riya,18-25,Female,No,,,No,No,Never,No,No,Yes,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:29:27 am GMT+5:30,Rubhan,18-25,Female,Yes,Male pattern baldness,Asian,Yes,No,Rarely,No,Yes,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:31:11 am GMT+5:30,Tara G,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:32:50 am GMT+5:30,Bhavesh,18-25,Male,No,,,No,No,Never,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/15 7:34:19 am GMT+5:30,Pallavi,26-35,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:36:15 am GMT+5:30,Naina,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:37:41 am GMT+5:30,Sri raj priya,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Straight,Every other day,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/15 7:39:06 am GMT+5:30,Kavin raj,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:41:47 am GMT+5:30,Yukesh sri raj,26-35,Male,No,,,Yes,No,Never,No,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 7:43:42 am GMT+5:30,Rani M,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/15 7:46:14 am GMT+5:30,Thiru kumaran,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,Yes,1
+2025/02/15 7:47:38 am GMT+5:30,Sree dhviya,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 8:22:42 am GMT+5:30,Kamalesh,18-25,Male,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 8:24:35 am GMT+5:30,Raju,18-25,Male,No,,,No,No,Rarely,No,Yes,Yes,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 8:30:14 am GMT+5:30,Gopalakrishnan,46-60,Male,No,,,No,No,Rarely,No,No,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 8:41:03 am GMT+5:30,Tamil arasi,26-35,Female,No,,,No,No,Rarely,No,Yes,No,No,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 11:42:18 am GMT+5:30,Thilagavathi,Above 60,Female,Yes,Male pattern baldness,Asian,No,No,Never,Yes,Yes,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 12:35:15 pm GMT+5:30,Dhivya sri,18-25,Female,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/15 12:37:10 pm GMT+5:30,Eswari,36-45,Female,No,,,No,No,Never,Yes,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/15 12:39:55 pm GMT+5:30,Sanjay kumar,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 12:45:19 pm GMT+5:30,Unisha,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 12:48:57 pm GMT+5:30,Kanaga,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 12:50:56 pm GMT+5:30,Raj kanna,26-35,Male,No,,,Yes,No,Never,No,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,Yes,Yes,No,No,No,1
+2025/02/15 12:52:31 pm GMT+5:30,Pavithra T,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/15 12:54:03 pm GMT+5:30,Jaya Aishwarya G,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Curly,Once a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 12:57:05 pm GMT+5:30,Sarnitha,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,Yes,Straight,Twice a week,Yes,Yes,No,No,Yes,Yes,No,No,No,No,0
+2025/02/15 12:58:56 pm GMT+5:30,Ruturaj Gaikwad,36-45,Male,No,,,Yes,No,Never,No,Yes,No,Yes,Wavy,Daily,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 1:01:50 pm GMT+5:30,Sarvatha,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,Yes,1
+2025/02/15 1:42:15 pm GMT+5:30,Azhagan,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,No,Yes,No,Straight,Twice a week,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/15 1:43:07 pm GMT+5:30,Muthu,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,No,Straight,Twice a week,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,1
+2025/02/15 1:44:30 pm GMT+5:30,Balaji,26-35,Male,No,,,Yes,Yes,Rarely,Yes,No,Yes,No,Wavy,Every other day,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,1
+2025/02/15 1:45:43 pm GMT+5:30,Naren,18-25,Male,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 1:45:48 pm GMT+5:30,Lakshman,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,Yes,No,Straight,Every other day,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/15 1:47:19 pm GMT+5:30,Abhinav,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Daily,No,Yes,No,Yes,Straight,Twice a week,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/15 1:48:05 pm GMT+5:30,Raman,18-25,Male,No,,,No,No,Never,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 1:48:31 pm GMT+5:30,Arunraj,36-45,Male,No,,,Yes,Yes,Rarely,No,Yes,No,Yes,Wavy,Daily,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,1
+2025/02/15 1:51:39 pm GMT+5:30,Nikhil,18-25,Male,No,,,No,No,Rarely,No,No,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 1:51:41 pm GMT+5:30,Guhan D,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,Yes,Curly,Daily,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,1
+2025/02/15 1:54:09 pm GMT+5:30,Aadhithya G,18-25,Male,No,,,Yes,Yes,Rarely,No,Yes,Yes,Yes,Straight,Every other day,No,No,No,Yes,No,Yes,Yes,No,Yes,No,1
+2025/02/15 1:55:11 pm GMT+5:30,Sarvesh,18-25,Male,No,,,No,No,Never,No,No,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 1:56:37 pm GMT+5:30,Raghavan,18-25,Male,No,,,Yes,Yes,Never,Yes,Yes,No,Yes,Wavy,Every other day,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,1
+2025/02/15 2:10:38 pm GMT+5:30,Anbu G,26-35,Male,No,,,No,No,Never,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 2:16:01 pm GMT+5:30,Kishore J,18-25,Male,No,,,No,No,Never,No,No,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 2:16:08 pm GMT+5:30,Anjali,18-25,Female,No,,,No,No,Rarely,Yes,Yes,No,Yes,Curly,Daily,Yes,Yes,No,No,Yes,No,Yes,No,No,No,1
+2025/02/15 2:16:56 pm GMT+5:30,Shreya,26-35,Female,No,,,No,No,Never,Yes,Yes,No,Yes,Wavy,Daily,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/15 2:17:48 pm GMT+5:30,Charulatha,26-35,Female,No,,,No,No,Rarely,Yes,No,Yes,No,Straight,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,1
+2025/02/15 2:18:33 pm GMT+5:30,Hardhik,26-35,Male,Yes,Male pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,No,Yes,Straight,Every other day,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,1
+2025/02/15 2:18:56 pm GMT+5:30,Shruthi M,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Every other day,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,1
+2025/02/15 2:20:12 pm GMT+5:30,NIVIP,18-25,Male,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 2:20:56 pm GMT+5:30,Malathi V,36-45,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,Yes,No,No,No,Straight,Once a week,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,1
+2025/02/15 2:22:00 pm GMT+5:30,Manju G,18-25,Female,No,,,No,No,Rarely,Yes,Yes,No,No,Straight,Daily,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,1
+2025/02/15 2:23:49 pm GMT+5:30,Kumudha,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,No,Yes,Wavy,Daily,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,1
+2025/02/15 2:24:25 pm GMT+5:30,Ararthvika,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/15 2:25:22 pm GMT+5:30,Prageeth,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,Yes,Yes,No,Yes,Curly,Daily,Yes,No,No,No,Yes,Yes,No,No,No,No,1
+2025/02/15 2:25:45 pm GMT+5:30,Venba H,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,No,Yes,No,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/15 2:26:38 pm GMT+5:30,Bhavya,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,Yes,Yes,No,Yes,Straight,Twice a week,Yes,No,Yes,No,Yes,Yes,No,No,No,No,1
+2025/02/15 2:26:52 pm GMT+5:30,Riya kanan,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/15 2:28:58 pm GMT+5:30,Ananya H,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Daily,Yes,Yes,No,Yes,Straight,Twice a week,Yes,No,Yes,No,No,No,Yes,No,No,No,0
+2025/02/15 2:30:14 pm GMT+5:30,Meenamohan D,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Few times a week,Yes,No,No,Yes,Curly,Every other day,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/15 2:30:57 pm GMT+5:30,Senbha,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/15 2:31:42 pm GMT+5:30,Supraja G,36-45,Female,No,,,No,No,Never,Yes,Yes,Yes,No,Curly,Daily,No,No,Yes,No,Yes,Yes,No,No,No,No,1
+2025/02/15 2:33:03 pm GMT+5:30,Thirunayanam,36-45,Male,No,,,No,Yes,Rarely,Yes,Yes,Yes,Yes,Curly,Daily,Yes,No,No,Yes,No,Yes,Yes,No,No,No,1
+2025/02/15 2:33:04 pm GMT+5:30,Raja Lakshmi ,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,Yes,Yes,No,Yes,No,No,1
+2025/02/15 2:33:51 pm GMT+5:30,Madhavan,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,No,Yes,No,Yes,Wavy,Daily,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/15 2:34:07 pm GMT+5:30,Adhavan K,18-25,Male,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/15 2:35:00 pm GMT+5:30,Bharathwaaj,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Straight,Twice a week,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,1
+2025/02/15 2:35:37 pm GMT+5:30,Anusha,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/15 2:35:53 pm GMT+5:30,Ilango,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,Yes,Yes,Yes,No,Straight,Twice a week,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,1
+2025/02/15 2:39:59 pm GMT+5:30,Fathima,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Coily,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/15 2:48:12 pm GMT+5:30,Dharshana sri,18-25,Female,No,,,No,No,Never,Yes,No,Yes,No,Straight,Once a week,Yes,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/15 3:04:20 pm GMT+5:30,Varatharajan J,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Rarely,No,Yes,No,No,Straight,Twice a week,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,1
+2025/02/15 3:10:06 pm GMT+5:30,Hemanth,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,Yes,Yes,No,Yes,Coily,Once a week,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0
+2025/02/15 3:10:22 pm GMT+5:30,Athithi,18-25,Female,No,,,No,No,Few times a week,No,No,No,Yes,Coily,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/15 3:11:09 pm GMT+5:30,Nailash,26-35,Male,No,,,No,No,Never,Yes,No,No,No,Straight,Twice a week,Yes,No,Yes,No,Yes,Yes,No,No,No,No,0
+2025/02/15 3:13:14 pm GMT+5:30,Vishnu vardhan,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,No,No,Yes,Curly,Every other day,No,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/15 3:13:25 pm GMT+5:30,Kiran reddy,26-35,Male,No,,,No,Yes,Rarely,Yes,Yes,No,Yes,Wavy,Twice a week,Yes,No,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/15 3:14:29 pm GMT+5:30,Krishana samy,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,No,Yes,Coily,Daily,Yes,No,Yes,No,Yes,Yes,No,No,No,No,1
+2025/02/15 3:15:12 pm GMT+5:30,Sudeep,36-45,Male,No,,,No,Yes,Rarely,Yes,No,No,Yes,Curly,Daily,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,1
+2025/02/15 3:16:11 pm GMT+5:30,Hemanth,18-25,Male,No,,,Yes,No,Never,No,No,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/15 3:53:16 pm GMT+5:30,Hari prakash,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Few times a week,Yes,No,Yes,No,Wavy,Every other day,Yes,No,Yes,No,Yes,Yes,No,No,No,No,1
+2025/02/15 3:58:25 pm GMT+5:30,Patish,26-35,Male,No,,,No,No,Never,No,Yes,No,Yes,Curly,Every other day,Yes,No,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/15 3:58:53 pm GMT+5:30,Yadhav,18-25,Male,No,,,No,No,Rarely,No,Yes,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/15 4:12:29 pm GMT+5:30,Ajay kumar,18-25,Male,No,,,No,No,Never,No,Yes,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,0
+2025/02/15 7:55:29 pm GMT+5:30,Reena kumar,26-35,Female,No,,,No,No,Rarely,Yes,Yes,No,Yes,Coily,Daily,No,No,No,No,No,Yes,No,Yes,No,Yes,1
+2025/02/16 7:57:34 am GMT+5:30,Rekamohan,26-35,Female,No,,,No,No,Never,Yes,Yes,No,No,Wavy,Twice a week,Yes,No,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 8:01:44 am GMT+5:30,Mohanlal S,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Straight,Every other day,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/16 8:02:47 am GMT+5:30,Rameshkanan,18-25,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,No,Yes,No,Yes,Wavy,Daily,Yes,No,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 8:07:59 am GMT+5:30,Jaisai,26-35,Male,No,,,No,Yes,Never,No,Yes,No,No,Straight,Once a week,Yes,No,Yes,No,Yes,Yes,No,No,No,No,1
+2025/02/16 8:15:16 am GMT+5:30,Arasu,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,Yes,Yes,No,Yes,Curly,Twice a week,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,0
+2025/02/16 8:22:02 am GMT+5:30,Magilan,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Coily,Daily,No,No,Yes,Yes,No,No,No,No,No,No,1
+2025/02/16 8:23:06 am GMT+5:30,Anbu,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,No,Yes,No,Yes,Straight,Daily,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,0
+2025/02/16 8:24:14 am GMT+5:30,Anbalagan,18-25,Male,No,,,No,No,Daily,No,Yes,No,Yes,Straight,Daily,No,No,Yes,Yes,No,No,No,No,No,No,0
+2025/02/16 8:32:09 am GMT+5:30,Dharshun,26-35,Male,No,,,No,No,Never,No,Yes,No,Yes,Coily,Daily,No,Yes,Yes,Yes,No,No,No,No,No,No,1
+2025/02/16 8:33:00 am GMT+5:30,Muralikrishnan,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,No,Yes,No,Yes,Wavy,Daily,Yes,No,Yes,Yes,No,No,No,No,No,No,0
+2025/02/16 8:44:20 am GMT+5:30,Arul samy,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,No,Yes,No,Yes,Coily,Daily,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/16 8:45:57 am GMT+5:30,Samyappan,36-45,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,No,Yes,No,Yes,Wavy,Daily,Yes,No,No,No,No,No,No,No,No,No,0
+2025/02/16 8:51:14 am GMT+5:30,Yuvan shankar,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,No,Yes,No,Yes,Wavy,Daily,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/16 9:10:20 am GMT+5:30,Sowmiya B,36-45,Female,No,,,No,No,Never,No,Yes,No,No,Curly,Daily,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1
+2025/02/16 11:20:15 am GMT+5:30,Rithan D,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Coily,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 11:21:15 am GMT+5:30,Rudharan G,26-35,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 11:28:47 am GMT+5:30,Suryaprasath J,26-35,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/16 11:31:31 am GMT+5:30,Nirmal,26-35,Male,No,,,No,Yes,Never,No,Yes,No,No,Coily,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/16 12:21:51 pm GMT+5:30,Nithin,18-25,Male,No,,,No,No,Never,No,No,No,Yes,Wavy,Every other day,No,No,No,Yes,Yes,No,No,No,No,No,0
+2025/02/16 12:24:40 pm GMT+5:30,Aysha,18-25,Female,No,,,No,No,Never,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:26:20 pm GMT+5:30,Sanmugam T,36-45,Male,Yes,Male pattern baldness,Asian,No,No,Never,Yes,No,No,Yes,Curly,Twice a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/16 12:28:21 pm GMT+5:30,Karupu Durai G,46-60,Male,No,,,No,No,Rarely,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/16 12:30:02 pm GMT+5:30,Srinivasan,26-35,Male,No,,,No,No,Rarely,No,Yes,No,Yes,Coily,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:31:44 pm GMT+5:30,Kiran Jones,18-25,Male,No,,,Yes,No,Few times a week,No,Yes,No,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 12:34:32 pm GMT+5:30,Kural Arasi,18-25,Female,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 12:35:17 pm GMT+5:30,Kalyani.A,18-25,Female,No,,,No,No,Daily,No,Yes,Yes,Yes,Wavy,Twice a week,Yes,Yes,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:37:21 pm GMT+5:30,Shreeza,18-25,Female,No,,,No,No,Few times a week,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 12:37:38 pm GMT+5:30,Meghna,26-35,Female,Yes,Female pattern baldness,Asian,Yes,No,Few times a week,Yes,Yes,No,Yes,Coily,Every other day,Yes,No,Yes,No,No,Yes,No,No,No,No,0
+2025/02/16 12:38:55 pm GMT+5:30,Anupama,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:39:02 pm GMT+5:30,V.Dhilip,18-25,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,Yes,Yes,No,No,Straight,Every other day,Yes,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 12:40:15 pm GMT+5:30,Sandeep M,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Coily,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 12:40:44 pm GMT+5:30,Hariprakash,18-25,Male,No,,,No,No,Few times a week,No,Yes,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:42:32 pm GMT+5:30,Sugumar reddy,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,No,No,No,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:42:35 pm GMT+5:30,Parasuraj,26-35,Male,No,,,No,Yes,Few times a week,No,No,No,Yes,Wavy,Every other day,Yes,No,No,No,No,Yes,No,No,No,No,0
+2025/02/16 12:44:50 pm GMT+5:30,Shivabalan,36-45,Male,No,,,No,No,Daily,Yes,Yes,Yes,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 12:46:32 pm GMT+5:30,Ramraj,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Few times a week,No,Yes,Yes,No,Straight,Daily,No,No,No,No,No,Yes,No,Yes,No,No,1
+2025/02/16 12:48:06 pm GMT+5:30,Saindavi,26-35,Female,No,,,No,No,Rarely,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,Yes,No,No,No,1
+2025/02/16 12:49:32 pm GMT+5:30,Anika,18-25,Female,Yes,Female pattern baldness,Asian,No,No,Rarely,No,No,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,Yes,No,No,No,No,1
+2025/02/16 12:50:51 pm GMT+5:30,Preethi.Z,18-25,Female,No,,,No,No,Rarely,Yes,Yes,No,No,Straight,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/16 12:51:45 pm GMT+5:30,Ahmed,18-25,Male,No,,,No,No,Few times a week,No,No,No,No,Curly,Every other day,No,No,No,Yes,Yes,No,No,No,No,No,0
+2025/02/16 12:52:39 pm GMT+5:30,Sabika,18-25,Female,No,,,No,No,Rarely,No,No,No,Yes,Wavy,Once a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 12:56:43 pm GMT+5:30,Kalai,26-35,Male,No,,,Yes,No,Never,No,Yes,No,No,Curly,Daily,No,No,No,No,No,Yes,No,Yes,No,No,0
+2025/02/16 12:58:21 pm GMT+5:30,Prabhu Selvaraj,36-45,Male,Yes,Male pattern baldness,Asian,Yes,No,Rarely,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,Yes,No,1
+2025/02/16 1:09:08 pm GMT+5:30,Govind Balakrishnan,26-35,Male,Yes,Male pattern baldness,Asian,Yes,No,Daily,No,Yes,Yes,No,Straight,Every other day,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,1
+2025/02/16 1:20:57 pm GMT+5:30,Marudhan G,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 1:22:05 pm GMT+5:30,Mirthula,26-35,Female,No,,,No,No,Never,No,Yes,No,No,Curly,Twice a week,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 1:22:54 pm GMT+5:30,Dhanvandh H,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Wavy,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 1:23:47 pm GMT+5:30,Aadhav C,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Curly,Daily,No,Yes,Yes,Yes,No,No,No,No,No,No,0
+2025/02/16 2:05:01 pm GMT+5:30,Raveendran,18-25,Male,No,,,No,Yes,Daily,No,No,Yes,No,Straight,Daily,Yes,No,No,No,No,No,No,No,No,No,0
+2025/02/16 2:06:52 pm GMT+5:30,Ashokan,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Straight,Every other day,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/16 2:21:00 pm GMT+5:30,Deepa.M,18-25,Female,No,,,No,No,Few times a week,Yes,Yes,No,Yes,Curly,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 2:26:38 pm GMT+5:30,Dhenaraj,26-35,Male,No,,,No,No,Never,No,Yes,No,No,Curly,Daily,No,Yes,Yes,Yes,No,Yes,No,No,No,No,0
+2025/02/16 2:56:27 pm GMT+5:30,Deepkasri,18-25,Female,No,,,No,No,Never,No,No,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 3:20:41 pm GMT+5:30,Aravindha D,26-35,Male,No,,,No,No,Never,No,Yes,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 4:48:39 pm GMT+5:30,Madhu sri,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 4:49:52 pm GMT+5:30,Sahana,18-25,Female,No,,,No,No,Few times a week,No,No,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 4:53:06 pm GMT+5:30,Sasi M,18-25,Male,No,,,No,No,Never,No,No,Yes,Yes,Wavy,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 4:56:36 pm GMT+5:30,Prem raj H,26-35,Male,No,,,Yes,No,Never,No,No,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/16 4:58:23 pm GMT+5:30,Kaliyarasu,18-25,Male,No,,,No,No,Few times a week,No,Yes,Yes,Yes,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 5:26:54 pm GMT+5:30,Aabesh,18-25,Male,No,,,No,No,Rarely,No,No,Yes,No,Wavy,Twice a week,No,No,No,No,No,No,No,No,No,No,0
+2025/02/16 5:27:52 pm GMT+5:30,Akashan,26-35,Male,No,,,No,No,Rarely,No,No,No,No,Curly,Every other day,No,No,No,No,No,No,No,No,No,No,0
+2025/02/16 5:29:46 pm GMT+5:30,Kashan ,26-35,Male,No,,,No,No,Never,No,No,Yes,Yes,Straight,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/16 5:31:38 pm GMT+5:30,Charvik,18-25,Male,No,,,No,No,Few times a week,No,No,Yes,No,Wavy,Every other day,Yes,No,Yes,No,No,No,No,No,No,No,0
+2025/02/16 5:33:15 pm GMT+5:30,Dakshin,18-25,Male,No,,,No,No,Rarely,No,No,No,No,Wavy,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/16 5:35:20 pm GMT+5:30,Eashan,46-60,Male,No,,,No,No,Few times a week,No,No,No,No,Wavy,Every other day,No,No,No,No,No,No,No,No,No,No,0
+2025/02/16 5:37:07 pm GMT+5:30,Sakthi,Above 60,Others,No,,,No,Yes,Daily,No,Yes,No,No,Wavy,Every other day,No,No,No,No,No,No,No,No,No,No,1
+2025/02/16 5:40:27 pm GMT+5:30,Sanvika,18-25,Female,No,,,No,Yes,Rarely,No,No,No,No,Curly,Every other day,Yes,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 5:46:03 pm GMT+5:30,Jason,26-35,Male,No,,,No,No,Never,No,No,No,No,Curly,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/16 7:23:34 pm GMT+5:30,Pranow G,36-45,Male,No,,,No,No,Never,No,Yes,No,No,Curly,Twice a week,Yes,No,Yes,No,No,Yes,No,No,No,No,1
+2025/02/16 7:25:07 pm GMT+5:30,Ragulravuth,26-35,Male,Yes,Male pattern baldness,Asian,No,Yes,Never,No,Yes,No,Yes,Wavy,Daily,Yes,No,No,No,No,Yes,No,No,No,No,0
+2025/02/16 7:35:12 pm GMT+5:30,Kayal,26-35,Female,No,,,No,No,Daily,Yes,No,No,Yes,Wavy,Once a week,Yes,No,Yes,Yes,No,No,No,No,No,No,0
+2025/02/16 7:36:46 pm GMT+5:30,Sidharth.S,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Few times a week,Yes,Yes,Yes,No,Straight,Daily,Yes,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 7:43:10 pm GMT+5:30,Gurunath H,26-35,Male,Yes,Male pattern baldness,Asian,No,No,Never,No,Yes,No,Yes,Straight,Daily,Yes,No,No,No,No,Yes,No,No,No,No,0
+2025/02/16 7:47:08 pm GMT+5:30,Aravind anand,26-35,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,Yes,No,No,No,Coily,Once a week,No,No,No,No,No,No,No,No,No,No,1
+2025/02/16 9:08:10 pm GMT+5:30,Gunasounderraj,46-60,Male,Yes,Male pattern baldness,Asian,No,No,Rarely,No,Yes,No,No,Coily,Once a week,Yes,No,Yes,No,No,No,No,No,No,No,1
+2025/02/16 10:12:17 pm GMT+5:30,Sethuraman,26-35,Male,No,,,Yes,No,Never,No,Yes,No,No,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,0
+2025/02/16 10:13:25 pm GMT+5:30,Mythili,18-25,Female,No,,,No,No,Few times a week,Yes,No,No,No,Wavy,Once a week,No,No,No,Yes,No,Yes,No,No,No,No,0
+2025/02/16 10:15:02 pm GMT+5:30,Rajan,36-45,Male,Yes,Male pattern baldness,Asian,Yes,No,Never,No,Yes,No,No,Straight,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 7:22:20 am GMT+5:30,Kayal K,18-25,Female,No,,,No,No,Rarely,No,Yes,No,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 7:24:13 am GMT+5:30,Thabrez,18-25,Male,Yes,Male pattern baldness,Asian,No,No,Never,Yes,No,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 7:25:17 am GMT+5:30,Vivekanand,26-35,Male,No,,,No,No,Never,No,Yes,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 7:27:32 am GMT+5:30,Sabarish,18-25,Male,No,,,No,No,Rarely,Yes,No,No,No,Curly,Every other day,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 7:33:21 am GMT+5:30,Sai priya,18-25,Female,No,,,No,No,Never,No,Yes,Yes,Yes,Wavy,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 7:37:11 am GMT+5:30,Ajay kanna M,18-25,Male,No,,,No,No,Never,No,Yes,No,No,Straight,Twice a week,No,No,No,Yes,No,No,No,No,No,No,1
+2025/02/18 9:02:19 am GMT+5:30,Jesmini B,26-35,Female,No,,,No,No,Rarely,No,Yes,No,No,Wavy,Once a week,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,1
+2025/02/18 9:03:40 am GMT+5:30,Indhumalini,26-35,Female,Yes,Female pattern baldness,Asian,No,No,Never,No,Yes,Yes,Yes,Curly,Twice a week,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/18 1:55:31 pm GMT+5:30,Muthukumar,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Rarely,No,Yes,Yes,Yes,Straight,Daily,Yes,No,No,No,No,No,No,No,No,No,1
+2025/02/18 3:14:41 pm GMT+5:30,Dhanvindh G,36-45,Male,Yes,Male pattern baldness,Asian,Yes,Yes,Never,No,Yes,No,Yes,Curly,Daily,Yes,No,No,No,No,No,No,No,No,No,1
